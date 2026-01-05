@@ -92,8 +92,8 @@ class OpenWebUIStats:
         try:
             response = self.session.get(url, params=params)
             response.raise_for_status()
-        except requests.HTTPError as exc:
-            status = getattr(exc.response, "status_code", "unknown")
+        except requests.exceptions.HTTPError as exc:
+            status = exc.response.status_code if getattr(exc, "response", None) else "unknown"
             print(f"❌ 获取帖子数据失败 (HTTP {status}): {exc}")
             raise
         return response.json()
@@ -302,14 +302,16 @@ def main():
 
     # 保存 Markdown 报告
     script_dir = Path(__file__).resolve().parent.parent
-    md_path = script_dir / "docs" / "community-stats.md"
+    output_dir = Path(os.getenv("OPENWEBUI_OUTPUT_DIR", script_dir / "docs"))
+    output_dir.mkdir(parents=True, exist_ok=True)
+    md_path = output_dir / "community-stats.md"
     md_content = stats_client.generate_markdown(stats)
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(md_content)
     print(f"\n✅ Markdown 报告已保存到: {md_path}")
 
     # 保存 JSON 数据
-    json_path = script_dir / "docs" / "community-stats.json"
+    json_path = output_dir / "community-stats.json"
     stats_client.save_json(stats, str(json_path))
 
     return 0

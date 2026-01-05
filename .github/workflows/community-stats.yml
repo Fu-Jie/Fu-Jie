@@ -47,5 +47,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add docs/community-stats.md docs/community-stats.json
-          git commit -m "📊 更新社区统计数据 $(date +'%Y-%m-%d')"
+          git commit -m "📊 Update community stats $(date +'%Y-%m-%d')"
           git push
