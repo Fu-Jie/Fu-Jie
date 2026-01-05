@@ -1,10 +1,10 @@
 name: Community Stats
 
 on:
-  # 每天 UTC 8:00 (北京时间 16:00) 自动运行
+  # Run daily at UTC 8:00 (Beijing time 16:00)
   schedule:
     - cron: "0 8 * * *"
-  # 手动触发
+  # Manual trigger
   workflow_dispatch:
 
 permissions:
@@ -39,13 +39,13 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet --exit-code docs/ || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet --exit-code docs/ README.md || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add docs/community-stats.md docs/community-stats.json
+          git add docs/community-stats.md docs/community-stats.json README.md
           git commit -m "📊 Update community stats $(date +'%Y-%m-%d')"
           git push
