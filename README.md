@@ -86,6 +86,13 @@
 
 ---
 
+## 🤖 OpenWebUI 创作数据
+
+- 每日自动抓取我在 openwebui.com 发布的插件/帖子表现
+- 📈 最新统计报告：[docs/community-stats.md](docs/community-stats.md)
+
+---
+
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
