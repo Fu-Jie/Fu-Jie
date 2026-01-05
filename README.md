@@ -3,7 +3,7 @@
 <!-- Animated Header with Typing Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fu-Jie&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Engineer+%7C+Python+Expert+%7C+Analytics+Pro;Building+Data+Pipelines+%26+AI+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Full-Stack+Engineer+%7C+AI+Application+Builder;End-to-End+Data+Lifecycle+%26+AI+Assistance)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,18 +13,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🚀 **Data Engineer** passionate about transforming raw data into actionable insights
+🚀 **Data full-stack engineer & AI application builder** covering the entire data lifecycle — from collection and cleaning to visualization, analysis, and AI-assisted delivery.
 
-💡 **Expertise:**
-- 🐍 **Python & Pandas Expert** - Data manipulation & analysis wizard
-- 📊 **Data Visualization Specialist** - Creating impactful visual stories
-- 🤖 **Automation Architect** - Building efficient data pipelines
-- 🕷️ **Web Scraping Pro** - Extracting valuable data from the web
-- 💾 **SQL Stored Procedure Developer** - Database optimization & performance
-- 🧠 **AI Application Builder** - Developing intelligent solutions
-- ⚡ **AI Power User** - Leveraging cutting-edge AI technologies
+💡 **What I do:** design data pipelines, automate workflows, craft insightful visuals, and ship AI-powered plugins to accelerate development and decision-making.
 
-🎯 **Mission:** Empowering data-driven decision making through innovative engineering solutions
+🎯 **Mission:** Turn complex data into fast, reliable, and intelligent products.
 
 ---
 
@@ -68,7 +61,11 @@
 <!-- STATS_START -->
 ## 📊 Community Stats
 
-> 🕐 Auto-updated daily
+> 🕐 Auto-updated on 2026-01-05
+
+| 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
+|:---:|:---:|:---:|:---:|
+| [Fu-Jie](https://openwebui.com/u/fu-jie) | **0** | **0** | **0** |
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
@@ -104,9 +101,6 @@
 <p align="center">
   <a href="https://github.com/Fu-Jie">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/fu-jie">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
