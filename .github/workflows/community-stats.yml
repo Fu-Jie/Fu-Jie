@@ -39,7 +39,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet --exit-code docs/community-stats.md docs/community-stats.json || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet --exit-code docs/ || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'

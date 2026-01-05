@@ -25,14 +25,12 @@ import requests
 from datetime import datetime
 from typing import Optional
 from pathlib import Path
+from dotenv import load_dotenv
 
-# 尝试加载 .env 文件
-try:
-    from dotenv import load_dotenv
+EXIT_SUCCESS = 0
+EXIT_FAILURE = 1
 
-    load_dotenv()
-except ImportError:
-    pass
+load_dotenv()
 
 
 class OpenWebUIStats:
@@ -93,7 +91,7 @@ class OpenWebUIStats:
             response = self.session.get(url, params=params)
             response.raise_for_status()
         except requests.exceptions.HTTPError as exc:
-            status = exc.response.status_code if getattr(exc, "response", None) else "unknown"
+            status = getattr(exc.response, "status_code", "unknown")
             print(f"❌ 获取帖子数据失败 (HTTP {status}): {exc}")
             raise
         return response.json()
@@ -204,7 +202,7 @@ class OpenWebUIStats:
 
         for i, post in enumerate(stats["posts"], 1):
             title = (
-                post["title"][:28] + ".." if len(post["title"]) > 30 else post["title"]
+                post["title"][:28] + ".." if len(post["title"]) > 28 else post["title"]
             )
             print(
                 f"{i:<4} {title:<30} {post['downloads']:<8} {post['views']:<8} {post['upvotes']:<6}"
@@ -276,7 +274,7 @@ def main():
         print("❌ 错误: 未设置 OPENWEBUI_API_KEY 环境变量")
         print("请设置环境变量：")
         print("  export OPENWEBUI_API_KEY='your_api_key_here'")
-        return 1
+        return EXIT_FAILURE
 
     # 初始化
     stats_client = OpenWebUIStats(api_key, user_id)
@@ -286,7 +284,7 @@ def main():
         print("  export OPENWEBUI_USER_ID='your_user_id_here'")
         print("\n提示: 用户 ID 可以从之前的 curl 请求或 Token 中获取")
         print("     例如: b15d1348-4347-42b4-b815-e053342d6cb0")
-        return 1
+        return EXIT_FAILURE
     print(f"🔍 用户 ID: {stats_client.user_id}")
 
     # 获取所有帖子
@@ -314,7 +312,7 @@ def main():
     json_path = output_dir / "community-stats.json"
     stats_client.save_json(stats, str(json_path))
 
-    return 0
+    return EXIT_SUCCESS
 
 
 if __name__ == "__main__":
