@@ -65,31 +65,27 @@
 
 ---
 
-## 📊 GitHub Statistics
+<!-- STATS_START -->
+## 📊 Community Stats
 
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fu-Jie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fu-Jie&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+> 🕐 Auto-updated daily
 
-</div>
+| 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
+|:---:|:---:|:---:|:---:|:---:|
+| **11** | **731** | **7635** | **54** | **43** |
 
-<div align="center">
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fu-Jie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8"/>
+### 🔥 Top 5 Popular Plugins
 
-</div>
+| Rank | Plugin | Downloads | Views |
+|:---:|------|:---:|:---:|
+| 🥇 | [Turn Any Text into Beautiful Mind Maps](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 213 | 1893 |
+| 🥈 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 167 | 433 |
+| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 110 | 1185 |
+| 4️⃣ | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | 70 | 1334 |
+| 5️⃣ | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 62 | 850 |
 
----
-
-## 🤖 OpenWebUI 创作数据
-
-- 每日自动抓取我在 openwebui.com 发布的插件/帖子表现
-- 📈 最新统计报告：[docs/community-stats.md](docs/community-stats.md)
+*See full stats in [Community Stats Report](./docs/community-stats.md)*
+<!-- STATS_END -->
 
 ---
 
