@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🚀 **Data full-stack engineer & AI application builder** covering the entire data lifecycle — from collection and cleaning to visualization, analysis, and AI-assisted delivery.
+🚀 ** Data full-stack engineer & AI application builder** covering the entire data lifecycle — from collection and cleaning to visualization, analysis, and AI-assisted delivery.
 
 💡 **What I do:** design data pipelines, automate workflows, craft insightful visuals, and ship AI-powered plugins to accelerate development and decision-making.
 
@@ -35,7 +35,6 @@
 ### Data Engineering & Orchestration
 <p align="center">
   <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
@@ -44,15 +43,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OpenWebUI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenWebUI"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-9C5FBD?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
 ### Web Scraping & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="BeautifulSoup"/>
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
