@@ -216,7 +216,7 @@ class OpenWebUIStats:
 
         for i, post in enumerate(stats["posts"], 1):
             title = (
-                post["title"][:28] + ".." if len(post["title"]) > 30 else post["title"]
+                post["title"][:28] + ".." if len(post["title"]) > 28 else post["title"]
             )
             print(
                 f"{i:<4} {title:<30} {post['downloads']:<10} {post['views']:<10} {post['upvotes']:<8}"
@@ -288,29 +288,16 @@ class OpenWebUIStats:
         # Get Top 5 plugins
         top_plugins = stats["posts"][:5]
 
-        # English/Chinese text
-        texts = {
-            "zh": {
-                "title": "## 📊 Community Stats",
-                "updated": f"> 🕐 Auto-updated on {datetime.now().strftime('%Y-%m-%d')}",
-                "author_header": "| 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |",
-                "header": "| 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |",
-                "top5_title": "### 🔥 Top 5 Popular Plugins",
-                "top5_header": "| Rank | Plugin | Downloads | Views |",
-                "full_stats": "*See full stats in [Community Stats Report](./docs/community-stats.md)*",
-            },
-            "en": {
-                "title": "## 📊 Community Stats",
-                "updated": f"> 🕐 Auto-updated on {datetime.now().strftime('%Y-%m-%d')}",
-                "author_header": "| 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |",
-                "header": "| 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |",
-                "top5_title": "### 🔥 Top 5 Popular Plugins",
-                "top5_header": "| Rank | Plugin | Downloads | Views |",
-                "full_stats": "*See full stats in [Community Stats Report](./docs/community-stats.md)*",
-            },
+        # English text (default)
+        t = {
+            "title": "## 📊 Community Stats",
+            "updated": f"> 🕐 Auto-updated on {datetime.now().strftime('%Y-%m-%d')}",
+            "author_header": "| 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |",
+            "header": "| 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |",
+            "top5_title": "### 🔥 Top 5 Popular Plugins",
+            "top5_header": "| Rank | Plugin | Downloads | Views |",
+            "full_stats": "*See full stats in [Community Stats Report](./docs/community-stats.md)*",
         }
-
-        t = texts.get(lang, texts["en"])
         user = stats.get("user", {})
 
         lines = []
