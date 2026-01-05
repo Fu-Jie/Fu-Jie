@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🚀 ** Data full-stack engineer & AI application builder** covering the entire data lifecycle — from collection and cleaning to visualization, analysis, and AI-assisted delivery.
+🚀 **Data full-stack engineer & AI application builder** covering the entire data lifecycle — from collection and cleaning to visualization, analysis, and AI-assisted delivery.
 
 💡 **What I do:** design data pipelines, automate workflows, craft insightful visuals, and ship AI-powered plugins to accelerate development and decision-making.
 
