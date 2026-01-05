@@ -1,25 +1,25 @@
-# 📊 OpenWebUI Community Stats Report
+# 📊 OpenWebUI 社区统计报告
 
-> 📅 Updated: 2026-01-05 18:10:40
+> 📅 更新时间: 2026-01-05 18:10:40
 
-## 📈 Overview
+## 📈 总览
 
-| Metric | Value |
+| 指标 | 数值 |
 |------|------|
-| 📝 Total Posts | 11 |
-| ⬇️ Total Downloads | 731 |
-| 👁️ Total Views | 7635 |
-| 👍 Total Upvotes | 54 |
-| 💾 Total Saves | 43 |
-| 💬 Total Comments | 13 |
+| 📝 发布数量 | 11 |
+| ⬇️ 总下载量 | 731 |
+| 👁️ 总浏览量 | 7635 |
+| 👍 总点赞数 | 54 |
+| 💾 总收藏数 | 43 |
+| 💬 总评论数 | 13 |
 
-## 📂 By Type
+## 📂 按类型分类
 
 - **unknown**: 11
 
-## 📋 Posts List
+## 📋 发布列表
 
-| Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
+| 排名 | 标题 | 类型 | 版本 | 下载 | 浏览 | 点赞 | 收藏 | 更新日期 |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | [Turn Any Text into Beautiful Mind Maps](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | unknown |  | 213 | 1893 | 10 | 15 | 2026-01-03 |
 | 2 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | unknown |  | 167 | 433 | 3 | 2 | 2026-01-03 |
@@ -32,3 +32,4 @@
 | 9 | [闪记卡生成插件](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | unknown |  | 12 | 305 | 3 | 1 | 2025-12-31 |
 | 10 | [智能生成交互式思维导图,帮助用户可视化知识](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | unknown |  | 10 | 233 | 2 | 0 | 2025-12-31 |
 | 11 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | unknown |  | 5 | 104 | 2 | 1 | 2025-12-31 |
+

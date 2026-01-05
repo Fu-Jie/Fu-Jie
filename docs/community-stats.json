@@ -9,11 +9,25 @@
   "by_type": {
     "unknown": 11
   },
+  "user": {
+    "username": "Fu-Jie",
+    "name": "Fu-Jie",
+    "profile_url": "https://openwebui.com/u/fu-jie",
+    "profile_image": "",
+    "followers": 0,
+    "following": 0,
+    "total_points": 0,
+    "post_points": 0,
+    "comment_points": 0,
+    "contributions": 0
+  },
   "posts": [
     {
       "title": "Turn Any Text into Beautiful Mind Maps",
       "slug": "turn_any_text_into_beautiful_mind_maps_3094c59a",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 213,
       "views": 1893,
@@ -22,12 +36,14 @@
       "comments": 8,
       "created_at": "2025-12-30",
       "updated_at": "2026-01-03",
-      "url": "https://openwebui.com/f/turn_any_text_into_beautiful_mind_maps_3094c59a"
+      "url": "https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a"
     },
     {
       "title": "Export to Excel",
       "slug": "export_mulit_table_to_excel_244b8f9d",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 167,
       "views": 433,
@@ -36,12 +52,14 @@
       "comments": 0,
       "created_at": "2025-05-30",
       "updated_at": "2026-01-03",
-      "url": "https://openwebui.com/f/export_mulit_table_to_excel_244b8f9d"
+      "url": "https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d"
     },
     {
       "title": "Async Context Compression",
       "slug": "async_context_compression_b1655bc8",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 110,
       "views": 1185,
@@ -50,12 +68,14 @@
       "comments": 0,
       "created_at": "2025-11-08",
       "updated_at": "2025-12-31",
-      "url": "https://openwebui.com/f/async_context_compression_b1655bc8"
+      "url": "https://openwebui.com/posts/async_context_compression_b1655bc8"
     },
     {
       "title": "Flash Card ",
       "slug": "flash_card_65a2ea8f",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 70,
       "views": 1334,
@@ -64,12 +84,14 @@
       "comments": 2,
       "created_at": "2025-12-30",
       "updated_at": "2026-01-03",
-      "url": "https://openwebui.com/f/flash_card_65a2ea8f"
+      "url": "https://openwebui.com/posts/flash_card_65a2ea8f"
     },
     {
       "title": "Smart Infographic",
       "slug": "smart_infographic_ad6f0c7f",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 62,
       "views": 850,
@@ -78,12 +100,14 @@
       "comments": 2,
       "created_at": "2025-12-28",
       "updated_at": "2026-01-03",
-      "url": "https://openwebui.com/f/smart_infographic_ad6f0c7f"
+      "url": "https://openwebui.com/posts/smart_infographic_ad6f0c7f"
     },
     {
       "title": "Export to Word (Enhanced Formatting)",
       "slug": "export_to_word_enhanced_formatting_fca6a315",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 38,
       "views": 420,
@@ -92,12 +116,14 @@
       "comments": 0,
       "created_at": "2026-01-03",
       "updated_at": "2026-01-05",
-      "url": "https://openwebui.com/f/export_to_word_enhanced_formatting_fca6a315"
+      "url": "https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315"
     },
     {
       "title": "智能信息图",
       "slug": "智能信息图_e04a48ff",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 31,
       "views": 372,
@@ -106,12 +132,14 @@
       "comments": 0,
       "created_at": "2025-12-28",
       "updated_at": "2025-12-29",
-      "url": "https://openwebui.com/f/智能信息图_e04a48ff"
+      "url": "https://openwebui.com/posts/智能信息图_e04a48ff"
     },
     {
       "title": "导出为 Word-支持公式、流程图、表格和代码块",
       "slug": "导出为_word_支持公式流程图表格和代码块_8a6306c0",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 13,
       "views": 506,
@@ -120,12 +148,14 @@
       "comments": 1,
       "created_at": "2026-01-04",
       "updated_at": "2026-01-05",
-      "url": "https://openwebui.com/f/导出为_word_支持公式流程图表格和代码块_8a6306c0"
+      "url": "https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0"
     },
     {
       "title": "闪记卡生成插件",
       "slug": "闪记卡生成插件_4a31eac3",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 12,
       "views": 305,
@@ -134,12 +164,14 @@
       "comments": 0,
       "created_at": "2025-12-30",
       "updated_at": "2025-12-31",
-      "url": "https://openwebui.com/f/闪记卡生成插件_4a31eac3"
+      "url": "https://openwebui.com/posts/闪记卡生成插件_4a31eac3"
     },
     {
       "title": "智能生成交互式思维导图,帮助用户可视化知识",
       "slug": "智能生成交互式思维导图帮助用户可视化知识_8d4b097b",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 10,
       "views": 233,
@@ -148,12 +180,14 @@
       "comments": 0,
       "created_at": "2025-12-31",
       "updated_at": "2025-12-31",
-      "url": "https://openwebui.com/f/智能生成交互式思维导图帮助用户可视化知识_8d4b097b"
+      "url": "https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b"
     },
     {
       "title": "异步上下文压缩",
       "slug": "异步上下文压缩_5c0617cb",
       "type": "unknown",
+      "author": "Fu-Jie",
+      "description": "",
       "version": "",
       "downloads": 5,
       "views": 104,
@@ -162,7 +196,7 @@
       "comments": 0,
       "created_at": "2025-11-08",
       "updated_at": "2025-12-31",
-      "url": "https://openwebui.com/f/异步上下文压缩_5c0617cb"
+      "url": "https://openwebui.com/posts/异步上下文压缩_5c0617cb"
     }
   ]
 }
