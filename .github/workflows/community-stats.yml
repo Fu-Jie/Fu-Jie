@@ -3,7 +3,7 @@ name: Community Stats
 on:
   # Run daily at UTC 8:00 (Beijing time 16:00)
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 * * * *"
   # Manual trigger
   workflow_dispatch:
 
