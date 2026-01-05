@@ -17,6 +17,8 @@ OpenWebUI 社区统计工具
     从个人主页的 API 请求中获取，格式如: b15d1348-4347-42b4-b815-e053342d6cb0
 """
 
+import base64
+import binascii
 import os
 import json
 import requests
@@ -59,8 +61,6 @@ class OpenWebUIStats:
 
     def _parse_user_id_from_token(self, token: str) -> str:
         """从 JWT Token 中解析用户 ID"""
-        import base64
-
         try:
             # JWT 格式: header.payload.signature
             payload = token.split(".")[1]
@@ -71,7 +71,7 @@ class OpenWebUIStats:
             decoded = base64.urlsafe_b64decode(payload)
             data = json.loads(decoded)
             return data.get("id", "")
-        except Exception as e:
+        except (IndexError, ValueError, json.JSONDecodeError, binascii.Error) as e:
             print(f"⚠️ 无法从 Token 解析用户 ID: {e}")
             return ""
 
@@ -89,8 +89,13 @@ class OpenWebUIStats:
         url = f"{self.BASE_URL}/posts/users/{self.user_id}"
         params = {"sort": sort, "page": page}
 
-        response = self.session.get(url, params=params)
-        response.raise_for_status()
+        try:
+            response = self.session.get(url, params=params)
+            response.raise_for_status()
+        except requests.HTTPError as exc:
+            status = getattr(exc.response, "status_code", "unknown")
+            print(f"❌ 获取帖子数据失败 (HTTP {status}): {exc}")
+            raise
         return response.json()
 
     def get_all_posts(self, sort: str = "new") -> list:
@@ -273,16 +278,15 @@ def main():
         print("  export OPENWEBUI_API_KEY='your_api_key_here'")
         return 1
 
-    if not user_id:
-        print("❌ 错误: 未设置 OPENWEBUI_USER_ID 环境变量")
-        print("请设置环境变量：")
-        print("  export OPENWEBUI_USER_ID='your_user_id_here'")
-        print("\n提示: 用户 ID 可以从之前的 curl 请求中获取")
-        print("     例如: b15d1348-4347-42b4-b815-e053342d6cb0")
-        return 1
-
     # 初始化
     stats_client = OpenWebUIStats(api_key, user_id)
+    if not stats_client.user_id:
+        print("❌ 错误: 未能获取用户 ID")
+        print("请设置环境变量：")
+        print("  export OPENWEBUI_USER_ID='your_user_id_here'")
+        print("\n提示: 用户 ID 可以从之前的 curl 请求或 Token 中获取")
+        print("     例如: b15d1348-4347-42b4-b815-e053342d6cb0")
+        return 1
     print(f"🔍 用户 ID: {stats_client.user_id}")
 
     # 获取所有帖子
@@ -297,7 +301,7 @@ def main():
     stats_client.print_stats(stats)
 
     # 保存 Markdown 报告
-    script_dir = Path(__file__).parent.parent
+    script_dir = Path(__file__).resolve().parent.parent
     md_path = script_dir / "docs" / "community-stats.md"
     md_content = stats_client.generate_markdown(stats)
     with open(md_path, "w", encoding="utf-8") as f:
