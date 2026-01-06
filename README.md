@@ -43,18 +43,19 @@
 </p>
 
 ### Data Collection & Automation
-> 专注于数据采集流程的分析与自动化编排，结合 Prefect 与 Python 完成稳定交付，爬虫库只是工具。  
 > Focused on analyzing data collection flows and orchestrating automation with Prefect and Python; crawler libraries are just tools.
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
+  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
 </p>
 
 ---
 
 <!-- STATS_START -->
-## 📊 Community Stats
+## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-01-06
+> 🕐 Auto-updated on 2026-01-06 14:05
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|

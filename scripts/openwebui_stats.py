@@ -356,7 +356,7 @@ class OpenWebUIStats:
         texts = {
             "zh": {
                 "title": "## 📊 社区统计",
-                "updated": f"> 🕐 自动更新于 {datetime.now().strftime('%Y-%m-%d')}",
+                "updated": f"> 🕐 自动更新于 {datetime.now().strftime('%Y-%m-%d %H:%M')}",
                 "author_header": "| 👤 作者 | 👥 粉丝 | ⭐ 积分 | 🏆 贡献 |",
                 "header": "| 📝 发布 | ⬇️ 下载 | 👁️ 浏览 | 👍 点赞 | 💾 收藏 |",
                 "top5_title": "### 🔥 热门插件 Top 5",
@@ -364,8 +364,8 @@ class OpenWebUIStats:
                 "full_stats": "*完整统计请查看 [社区统计报告](./docs/community-stats.md)*",
             },
             "en": {
-                "title": "## 📊 Community Stats",
-                "updated": f"> 🕐 Auto-updated on {datetime.now().strftime('%Y-%m-%d')}",
+                "title": "## 📊 open webUI Community",
+                "updated": f"> 🕐 Auto-updated on {datetime.now().strftime('%Y-%m-%d %H:%M')}",
                 "author_header": "| 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |",
                 "header": "| 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |",
                 "top5_title": "### 🔥 Top 5 Popular Plugins",
