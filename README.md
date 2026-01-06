@@ -43,9 +43,10 @@
 </p>
 
 ### Data Collection & Automation
-> 专注于数据采集流程的分析与自动化编排，结合 Prefect 与 Python 完成稳定交付，爬虫库只是工具。
+> 专注于数据采集流程的分析与自动化编排，结合 Prefect 与 Python 完成稳定交付，爬虫库只是工具。  
+> Focused on analyzing data collection flows and orchestrating automation with Prefect and Python; crawler libraries are just tools.
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Orchestration"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 ---
