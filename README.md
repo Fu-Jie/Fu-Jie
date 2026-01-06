@@ -55,7 +55,7 @@
 <!-- STATS_START -->
 ## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-01-06 22:05
+> 🕐 Auto-updated on 2026-01-06 23:05
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
@@ -63,17 +63,17 @@
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **11** | **828** | **8825** | **54** | **48** |
+| **11** | **830** | **8847** | **54** | **48** |
 
 ### 🔥 Top 5 Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Turn Any Text into Beautiful Mind Maps](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 257 | 2256 |
-| 🥈 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 173 | 472 |
-| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 114 | 1259 |
-| 4️⃣ | [Flash Card ](https://openwebui.com/posts/flash_card_65a2ea8f) | 78 | 1471 |
-| 5️⃣ | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 70 | 955 |
+| 🥇 | [Turn Any Text into Beautiful Mind Maps](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 258 | 2265 |
+| 🥈 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 173 | 473 |
+| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 114 | 1261 |
+| 4️⃣ | [Flash Card ](https://openwebui.com/posts/flash_card_65a2ea8f) | 78 | 1472 |
+| 5️⃣ | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 70 | 958 |
 
 *See full stats in [Community Stats Report](./docs/community-stats.md)*
 <!-- STATS_END -->
