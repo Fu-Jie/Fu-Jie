@@ -45,8 +45,6 @@
 ### Data Collection & Automation
 > 专注于数据采集流程的分析与自动化编排，结合 Prefect 与 Python 完成稳定交付，爬虫库只是工具。
 <p align="center">
-  <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect Automation"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Orchestration"/>
 </p>
 
