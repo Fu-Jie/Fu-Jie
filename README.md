@@ -55,7 +55,7 @@
 <!-- STATS_START -->
 ## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-01-07 03:33
+> 🕐 Auto-updated on 2026-01-07 04:19
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
@@ -63,13 +63,13 @@
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **11** | **843** | **8959** | **54** | **48** |
+| **11** | **846** | **8966** | **54** | **48** |
 
 ### 🔥 Top 5 Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Turn Any Text into Beautiful Mind Maps](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 263 | 2310 |
+| 🥇 | [Turn Any Text into Beautiful Mind Maps](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 266 | 2316 |
 | 🥈 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 173 | 474 |
 | 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 116 | 1270 |
 | 4️⃣ | [Flash Card ](https://openwebui.com/posts/flash_card_65a2ea8f) | 78 | 1482 |
