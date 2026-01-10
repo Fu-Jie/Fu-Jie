@@ -24,7 +24,6 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 ### AI Engineering & LLMOps
 <p align="center">
   <img src="https://img.shields.io/badge/OpenWebUI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenWebUI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus"/>
   <img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="RAG"/>
 </p>
