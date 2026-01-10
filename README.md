@@ -68,6 +68,10 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 > *   **Smart Mind Map**: Turn text into interactive mind maps (Top 1 Plugin).
 > *   **Office Suite**: Export chat to Excel/Word for business workflows.
 
+### 📈 Project Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Fu-Jie/awesome-openwebui,Fu-Jie/openwebui-chat-client,Fu-Jie/deepseek-free-api&type=Date)](https://star-history.com/#Fu-Jie/awesome-openwebui&Fu-Jie/openwebui-chat-client&Fu-Jie/deepseek-free-api&type=Date)
+
 ---
 
 <!-- STATS_START -->
