@@ -75,7 +75,7 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 <!-- STATS_START -->
 ## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-01-11 05:04
+> 🕐 Auto-updated on 2026-01-11 06:05
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
@@ -83,17 +83,17 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **14** | **1098** | **11934** | **68** | **67** |
+| **14** | **1100** | **11962** | **68** | **67** |
 
 ### 🔥 Top 5 Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 355 | 3193 |
+| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 355 | 3197 |
 | 🥈 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 181 | 559 |
-| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 128 | 1441 |
-| 4️⃣ | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 120 | 1396 |
-| 5️⃣ | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | 96 | 1776 |
+| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 128 | 1446 |
+| 4️⃣ | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 121 | 1400 |
+| 5️⃣ | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | 96 | 1779 |
 
 *See full stats in [Community Stats Report](./docs/community-stats.md)*
 <!-- STATS_END -->
