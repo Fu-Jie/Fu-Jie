@@ -1,14 +1,14 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-10 02:37:43
+> 📅 Updated: 2026-01-10 03:32:02
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 13 |
-| ⬇️ Total Downloads | 1060 |
-| 👁️ Total Views | 11366 |
+| ⬇️ Total Downloads | 1061 |
+| 👁️ Total Views | 11378 |
 | 👍 Total Upvotes | 62 |
 | 💾 Total Saves | 64 |
 | 💬 Total Comments | 15 |
@@ -22,11 +22,11 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 337 | 3040 | 10 | 20 | 2026-01-07 |
-| 2 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 181 | 550 | 3 | 4 | 2026-01-07 |
-| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.1.0 | 124 | 1382 | 5 | 9 | 2026-01-07 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 337 | 3044 | 10 | 20 | 2026-01-07 |
+| 2 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 181 | 551 | 3 | 4 | 2026-01-07 |
+| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.1.0 | 125 | 1386 | 5 | 9 | 2026-01-07 |
 | 4 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.1 | 115 | 1345 | 7 | 9 | 2026-01-07 |
-| 5 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 92 | 1721 | 8 | 6 | 2026-01-07 |
+| 5 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 92 | 1722 | 8 | 6 | 2026-01-07 |
 | 6 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 87 | 797 | 5 | 8 | 2026-01-07 |
 | 7 | [📊 智能信息图 (AntV Infographic)](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.4.1 | 35 | 477 | 3 | 0 | 2026-01-07 |
 | 8 | [导出为 Word (增强版)](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.3 | 31 | 927 | 8 | 2 | 2026-01-07 |
@@ -34,4 +34,4 @@
 | 10 | [思维导图](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | action | 0.9.1 | 17 | 301 | 2 | 1 | 2026-01-07 |
 | 11 | [闪记卡 (Flash Card)](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | action | 0.2.4 | 12 | 344 | 4 | 1 | 2026-01-07 |
 | 12 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | filter | 1.1.0 | 6 | 152 | 2 | 1 | 2026-01-07 |
-| 13 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 1 | 79 | 2 | 1 | 2026-01-08 |
+| 13 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 1 | 81 | 2 | 1 | 2026-01-08 |
