@@ -3,7 +3,7 @@
 <!-- Animated Header with Typing Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fu-Jie&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%26+Data+Full-Stack+Engineer+%7C+AI+Application+Builder;End-to-End+Data+Lifecycle+%26+AI+Assistance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Platform+Architect+%7C+LLMOps+Expert;One-Man+Army+building+Enterprise+AI+Infrastructure;17B+Tokens+Processed+%7C+99%25+Cost+Reduction)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,71 +11,89 @@
 
 ## 👨‍💻 About Me
 
-🚀 **Data full-stack engineer & AI application builder** covering the entire data lifecycle — from collection and cleaning to visualization, analysis, and AI-assisted delivery.
+🚀 **AI Platform Architect & LLMOps Expert**
 
-💡 **What I do:** design data pipelines, automate workflows, craft insightful visuals, and ship AI-powered plugins to accelerate development and decision-making.
+Building self-healing, high-availability AI infrastructure that bridges Enterprise Data and Generative AI.
 
-🎯 **Mission:** Turn complex data into fast, reliable, and intelligent products.
+*   **17B+ Tokens** processed with **99% cost reduction**.
+*   **One-Man Army** engineering: from Protocol Reverse Engineering to Frontend Visualization.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### Data Engineering & Orchestration
-<p align="center">
-  <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-### AI & Visualization
+### AI Engineering & LLMOps
 <p align="center">
   <img src="https://img.shields.io/badge/OpenWebUI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenWebUI"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus"/>
+  <img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="RAG"/>
 </p>
 
-### Data Collection & Automation
-> Focused on analyzing data collection flows and orchestrating automation with Prefect and Python; crawler libraries are just tools.
+### Backend & Infrastructure
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
-  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS_Lightsail-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+</p>
+
+### Data & Orchestration
+<p align="center">
+  <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 ---
 
-<!-- STATS_START -->
-## 📊 open webUI Community
+## 🏆 Featured Projects
 
-> 🕐 Auto-updated on 2026-01-10 01:33
+### 1. AI Gateway Core (myopenai) `Private`
+> **The Brain.** A self-developed, high-performance AI Gateway kernel (4000+ lines of Python).
+> *   **17B+ Tokens** processed with < ¥150/month cost.
+> *   **Smart Routing** across OpenAI, Gemini, DeepSeek, and Copilot.
+> *   **Protocol Reverse Engineering** for extreme cost savings.
+
+### 2. [OpenWebUI Chat Client](https://github.com/Fu-Jie/openwebui-chat-client)
+> **The SDK.** A comprehensive, stateful Python client for OpenWebUI.
+>
+> ![PyPI - Version](https://img.shields.io/pypi/v/openwebui-chat-client?style=flat-square&color=006DAD)
+> ![PyPI - Downloads](https://img.shields.io/pepy/dt/openwebui-chat-client?style=flat-square&color=28a745)
+> ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/openwebui-chat-client?style=flat-square)
+>
+> *   **Features**: Async support, tool calling, RAG integration.
+
+### 3. [Awesome OpenWebUI](https://github.com/Fu-Jie/awesome-openwebui)
+> **The Ecosystem.** A collection of 12+ enterprise-grade plugins.
+> *   **Smart Mind Map**: Turn text into interactive mind maps (Top 1 Plugin).
+> *   **Office Suite**: Export chat to Excel/Word for business workflows.
+
+---
+
+<!-- STATS_START -->
+## 📊 OpenWebUI Community Stats
+
+> 🕐 Auto-updated on 2026-01-08 23:10
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
-| [Fu-Jie](https://openwebui.com/u/Fu-Jie) | **66** | **70** | **20** |
+| [Fu-Jie](https://openwebui.com/u/Fu-Jie) | **54** | **68** | **20** |
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **13** | **1060** | **11346** | **62** | **64** |
+| **13** | **1000+** | **10K+** | **60** | **53** |
 
-### 🔥 Top 5 Popular Plugins
+### 🔥 Top Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 337 | 3037 |
-| 🥈 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 181 | 550 |
-| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 124 | 1381 |
-| 4️⃣ | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 115 | 1341 |
-| 5️⃣ | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | 92 | 1720 |
+| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | **308** | **2684** |
+| 🥈 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 179 | 523 |
+| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 121 | 1330 |
 
-*See full stats in [Community Stats Report](./docs/community-stats.md)*
 <!-- STATS_END -->
 
 ---
