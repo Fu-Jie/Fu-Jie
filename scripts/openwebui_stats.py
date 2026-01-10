@@ -81,7 +81,7 @@ class OpenWebUIStats:
 
     def _extract_post_metadata(self, post: dict, stats: dict):
         """提取帖子元数据，兼容新旧数据结构"""
-        data = post.get("data", {})
+        data = post.get("data") or {}
         function_data = data.get("function", {})
         # 优先读取新版 data.function.meta，若不存在则回退到 data.meta/data.type
         meta = function_data.get("meta", {}) or data.get("meta", {})
