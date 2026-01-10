@@ -21,12 +21,19 @@ Collects and summarizes the plugins/posts you've published on openwebui.com.
 import os
 import json
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from typing import Optional
 from pathlib import Path
 
 # 可选的中文 README 文件名 / Optional Chinese README filenames
 README_CN_CANDIDATES = ["README_CN.md", "README.zh.md"]
+
+BJT = timezone(timedelta(hours=8))
+
+
+def now_bjt() -> datetime:
+    """当前北京时间"""
+    return datetime.now(timezone.utc).astimezone(BJT)
 
 # 尝试加载 .env 文件 / Try to load .env file
 try:
@@ -209,7 +216,7 @@ class OpenWebUIStats:
         print("\n" + "=" * 60)
         print("📊 OpenWebUI 社区统计报告")
         print("=" * 60)
-        print(f"📅 生成时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        print(f"📅 生成时间: {now_bjt().strftime('%Y-%m-%d %H:%M:%S')}")
         print()
 
         # 总览
@@ -260,7 +267,7 @@ class OpenWebUIStats:
         texts = {
             "zh": {
                 "title": "# 📊 OpenWebUI 社区统计报告",
-                "updated": f"> 📅 更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+                "updated": f"> 📅 更新时间: {now_bjt().strftime('%Y-%m-%d %H:%M:%S')}",
                 "overview_title": "## 📈 总览",
                 "overview_header": "| 指标 | 数值 |",
                 "posts": "📝 发布数量",
@@ -275,7 +282,7 @@ class OpenWebUIStats:
             },
             "en": {
                 "title": "# 📊 OpenWebUI Community Stats Report",
-                "updated": f"> 📅 Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+                "updated": f"> 📅 Updated: {now_bjt().strftime('%Y-%m-%d %H:%M:%S')}",
                 "overview_title": "## 📈 Overview",
                 "overview_header": "| Metric | Value |",
                 "posts": "📝 Total Posts",
@@ -356,7 +363,7 @@ class OpenWebUIStats:
         texts = {
             "zh": {
                 "title": "## 📊 社区统计",
-                "updated": f"> 🕐 自动更新于 {datetime.now().strftime('%Y-%m-%d %H:%M')}",
+                "updated": f"> 🕐 自动更新于 {now_bjt().strftime('%Y-%m-%d %H:%M')}",
                 "author_header": "| 👤 作者 | 👥 粉丝 | ⭐ 积分 | 🏆 贡献 |",
                 "header": "| 📝 发布 | ⬇️ 下载 | 👁️ 浏览 | 👍 点赞 | 💾 收藏 |",
                 "top5_title": "### 🔥 热门插件 Top 5",
@@ -365,7 +372,7 @@ class OpenWebUIStats:
             },
             "en": {
                 "title": "## 📊 open webUI Community",
-                "updated": f"> 🕐 Auto-updated on {datetime.now().strftime('%Y-%m-%d %H:%M')}",
+                "updated": f"> 🕐 Auto-updated on {now_bjt().strftime('%Y-%m-%d %H:%M')}",
                 "author_header": "| 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |",
                 "header": "| 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |",
                 "top5_title": "### 🔥 Top 5 Popular Plugins",
