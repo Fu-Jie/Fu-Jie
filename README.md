@@ -15,7 +15,6 @@
 
 Building self-healing, high-availability AI infrastructure that bridges Enterprise Data and Generative AI.
 
-*   **17B+ Tokens** processed with **99% cost reduction**.
 *   **One-Man Army** engineering: from Protocol Reverse Engineering to Frontend Visualization.
 
 ---
@@ -53,7 +52,6 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 
 ### 1. AI Gateway Core (myopenai) `Private`
 > **The Brain.** A self-developed, high-performance AI Gateway kernel (4000+ lines of Python).
-> *   **17B+ Tokens** processed with < ¥150/month cost.
 > *   **Smart Routing** across OpenAI, Gemini, DeepSeek, and Copilot.
 > *   **Protocol Reverse Engineering** for extreme cost savings.
 
