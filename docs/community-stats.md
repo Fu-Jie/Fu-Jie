@@ -1,6 +1,6 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-11 00:43:03
+> 📅 Updated: 2026-01-11 01:04:22
 
 ## 📈 Overview
 
@@ -8,7 +8,7 @@
 |------|------|
 | 📝 Total Posts | 14 |
 | ⬇️ Total Downloads | 1086 |
-| 👁️ Total Views | 11822 |
+| 👁️ Total Views | 11830 |
 | 👍 Total Upvotes | 66 |
 | 💾 Total Saves | 67 |
 | 💬 Total Comments | 17 |
@@ -23,10 +23,10 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 347 | 3154 | 10 | 21 | 2026-01-07 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 347 | 3158 | 10 | 21 | 2026-01-07 |
 | 2 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 181 | 559 | 3 | 4 | 2026-01-07 |
-| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.1.1 | 128 | 1436 | 5 | 9 | 2026-01-10 |
-| 4 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.1 | 120 | 1388 | 7 | 9 | 2026-01-07 |
+| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.1.1 | 128 | 1437 | 5 | 9 | 2026-01-10 |
+| 4 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.1 | 120 | 1391 | 7 | 9 | 2026-01-07 |
 | 5 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 94 | 1763 | 8 | 6 | 2026-01-07 |
 | 6 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 87 | 811 | 5 | 8 | 2026-01-07 |
 | 7 | [📊 智能信息图 (AntV Infographic)](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.4.1 | 35 | 486 | 3 | 0 | 2026-01-07 |
