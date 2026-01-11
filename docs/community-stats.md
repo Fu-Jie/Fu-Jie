@@ -1,6 +1,6 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-11 10:49:25
+> 📅 Updated: 2026-01-11 11:35:24
 
 ## 📈 Overview
 
@@ -8,7 +8,7 @@
 |------|------|
 | 📝 Total Posts | 14 |
 | ⬇️ Total Downloads | 1109 |
-| 👁️ Total Views | 12061 |
+| 👁️ Total Views | 12076 |
 | 👍 Total Upvotes | 68 |
 | 💾 Total Saves | 67 |
 | 💬 Total Comments | 17 |
@@ -23,9 +23,9 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 357 | 3218 | 10 | 21 | 2026-01-07 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 357 | 3222 | 10 | 21 | 2026-01-07 |
 | 2 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 182 | 563 | 3 | 4 | 2026-01-07 |
-| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.1.1 | 129 | 1458 | 5 | 9 | 2026-01-10 |
+| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.1.1 | 129 | 1461 | 5 | 9 | 2026-01-10 |
 | 4 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.1 | 124 | 1414 | 7 | 9 | 2026-01-07 |
 | 5 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 96 | 1788 | 8 | 6 | 2026-01-07 |
 | 6 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 88 | 827 | 5 | 8 | 2026-01-07 |
@@ -34,6 +34,6 @@
 | 9 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 26 | 283 | 3 | 3 | 2026-01-08 |
 | 10 | [思维导图](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | action | 0.9.1 | 17 | 311 | 2 | 1 | 2026-01-07 |
 | 11 | [闪记卡 (Flash Card)](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | action | 0.2.4 | 12 | 349 | 4 | 1 | 2026-01-07 |
-| 12 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | filter | 1.1.1 | 8 | 185 | 3 | 1 | 2026-01-10 |
+| 12 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | filter | 1.1.1 | 8 | 188 | 3 | 1 | 2026-01-10 |
 | 13 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 2 | 100 | 2 | 1 | 2026-01-08 |
-| 14 | [ 🛠️ Debug Open WebUI Plugins in Your Browser](https://openwebui.com/posts/debug_open_webui_plugins_in_your_browser_81bf7960) | unknown |  | 0 | 112 | 5 | 1 | 2026-01-10 |
+| 14 | [ 🛠️ Debug Open WebUI Plugins in Your Browser](https://openwebui.com/posts/debug_open_webui_plugins_in_your_browser_81bf7960) | unknown |  | 0 | 117 | 5 | 1 | 2026-01-10 |
