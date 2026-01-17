@@ -1,14 +1,14 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-18 03:03:48
+> 📅 Updated: 2026-01-18 04:05:13
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 16 |
-| ⬇️ Total Downloads | 1664 |
-| 👁️ Total Views | 20077 |
+| ⬇️ Total Downloads | 1666 |
+| 👁️ Total Views | 20094 |
 | 👍 Total Upvotes | 99 |
 | 💾 Total Saves | 127 |
 | 💬 Total Comments | 23 |
@@ -26,9 +26,9 @@
 | 2 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.9 | 229 | 2295 | 11 | 16 | 2026-01-17 |
 | 3 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 202 | 752 | 3 | 5 | 2026-01-07 |
 | 4 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.1.3 | 174 | 1913 | 7 | 18 | 2026-01-17 |
-| 5 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 136 | 1262 | 6 | 15 | 2026-01-17 |
-| 6 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 133 | 2274 | 8 | 10 | 2026-01-17 |
-| 7 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.3 | 63 | 1781 | 9 | 16 | 2026-01-17 |
+| 5 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 137 | 1268 | 6 | 15 | 2026-01-17 |
+| 6 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 133 | 2275 | 8 | 10 | 2026-01-17 |
+| 7 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.3 | 64 | 1791 | 9 | 16 | 2026-01-17 |
 | 8 | [导出为 Word (增强版)](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.3 | 62 | 1266 | 10 | 3 | 2026-01-17 |
 | 9 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 58 | 605 | 3 | 5 | 2026-01-08 |
 | 10 | [📊 智能信息图 (AntV Infographic)](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.4.9 | 41 | 655 | 5 | 0 | 2026-01-17 |
