@@ -1,16 +1,16 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-24 13:06:16
+> 📅 Updated: 2026-01-24 14:06:58
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 17 |
-| ⬇️ Total Downloads | 2223 |
-| 👁️ Total Views | 25521 |
+| ⬇️ Total Downloads | 2224 |
+| 👁️ Total Views | 25534 |
 | 👍 Total Upvotes | 129 |
-| 💾 Total Saves | 169 |
+| 💾 Total Saves | 170 |
 | 💬 Total Comments | 24 |
 
 ## 📂 By Type
@@ -23,13 +23,13 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 601 | 5391 | 16 | 36 | 2026-01-17 |
-| 2 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.9 | 359 | 3230 | 17 | 25 | 2026-01-18 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 602 | 5397 | 16 | 36 | 2026-01-17 |
+| 2 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.9 | 359 | 3233 | 17 | 25 | 2026-01-18 |
 | 3 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 248 | 991 | 4 | 6 | 2026-01-07 |
 | 4 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 215 | 2333 | 9 | 25 | 2026-01-21 |
 | 5 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 211 | 1731 | 8 | 20 | 2026-01-17 |
 | 6 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 158 | 2580 | 11 | 13 | 2026-01-17 |
-| 7 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.4 | 131 | 2591 | 10 | 19 | 2026-01-19 |
+| 7 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.4 | 131 | 2595 | 10 | 20 | 2026-01-19 |
 | 8 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 87 | 804 | 4 | 7 | 2026-01-08 |
 | 9 | [导出为 Word (增强版)](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.3 | 80 | 1523 | 11 | 3 | 2026-01-17 |
 | 10 | [📊 智能信息图 (AntV Infographic)](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.4.9 | 45 | 762 | 6 | 0 | 2026-01-17 |
