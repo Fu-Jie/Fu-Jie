@@ -1,6 +1,6 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-25 16:06:18
+> 📅 Updated: 2026-01-25 17:05:19
 
 ## 📈 Overview
 
@@ -8,7 +8,7 @@
 |------|------|
 | 📝 Total Posts | 17 |
 | ⬇️ Total Downloads | 2297 |
-| 👁️ Total Views | 26269 |
+| 👁️ Total Views | 26281 |
 | 👍 Total Upvotes | 129 |
 | 💾 Total Saves | 173 |
 | 💬 Total Comments | 27 |
@@ -23,18 +23,18 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 613 | 5498 | 16 | 36 | 2026-01-17 |
-| 2 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.9 | 383 | 3400 | 17 | 25 | 2026-01-18 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 613 | 5502 | 16 | 36 | 2026-01-17 |
+| 2 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.9 | 383 | 3401 | 17 | 25 | 2026-01-18 |
 | 3 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 249 | 1005 | 4 | 6 | 2026-01-07 |
-| 4 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 220 | 2395 | 9 | 26 | 2026-01-21 |
-| 5 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 219 | 1777 | 8 | 21 | 2026-01-17 |
+| 4 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 220 | 2397 | 9 | 26 | 2026-01-21 |
+| 5 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 219 | 1778 | 8 | 21 | 2026-01-17 |
 | 6 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 161 | 2627 | 11 | 13 | 2026-01-17 |
 | 7 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.4 | 137 | 2673 | 10 | 20 | 2026-01-19 |
 | 8 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 90 | 823 | 4 | 7 | 2026-01-08 |
-| 9 | [导出为 Word (增强版)](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.3 | 82 | 1568 | 11 | 3 | 2026-01-17 |
+| 9 | [导出为 Word (增强版)](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.3 | 82 | 1570 | 11 | 3 | 2026-01-17 |
 | 10 | [📊 智能信息图 (AntV Infographic)](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.4.9 | 45 | 772 | 6 | 0 | 2026-01-17 |
 | 11 | [思维导图](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | action | 0.9.1 | 27 | 443 | 3 | 1 | 2026-01-17 |
-| 12 | [📂 Folder Memory – Auto-Evolving Project Context](https://openwebui.com/posts/folder_memory_auto_evolving_project_context_4a9875b2) | filter | 0.1.0 | 25 | 658 | 3 | 4 | 2026-01-20 |
+| 12 | [📂 Folder Memory – Auto-Evolving Project Context](https://openwebui.com/posts/folder_memory_auto_evolving_project_context_4a9875b2) | filter | 0.1.0 | 25 | 660 | 3 | 4 | 2026-01-20 |
 | 13 | [闪记卡 (Flash Card)](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | action | 0.2.4 | 19 | 500 | 6 | 1 | 2026-01-17 |
 | 14 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | action | 1.2.2 | 18 | 471 | 5 | 1 | 2026-01-21 |
 | 15 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 9 | 302 | 3 | 1 | 2026-01-08 |
