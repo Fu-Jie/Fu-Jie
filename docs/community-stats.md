@@ -1,14 +1,14 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-25 22:04:28
+> 📅 Updated: 2026-01-25 23:05:16
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 18 |
-| ⬇️ Total Downloads | 2314 |
-| 👁️ Total Views | 26463 |
+| ⬇️ Total Downloads | 2318 |
+| 👁️ Total Views | 26492 |
 | 👍 Total Upvotes | 132 |
 | 💾 Total Saves | 176 |
 | 💬 Total Comments | 28 |
@@ -23,21 +23,21 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 615 | 5518 | 16 | 36 | 2026-01-17 |
-| 2 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.9 | 389 | 3434 | 17 | 25 | 2026-01-18 |
-| 3 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 249 | 1005 | 4 | 6 | 2026-01-07 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.1 | 616 | 5523 | 16 | 36 | 2026-01-17 |
+| 2 | [📊 Smart Infographic (AntV)](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.4.9 | 392 | 3439 | 17 | 25 | 2026-01-18 |
+| 3 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 249 | 1008 | 4 | 6 | 2026-01-07 |
 | 4 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 220 | 2407 | 9 | 26 | 2026-01-21 |
-| 5 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 219 | 1782 | 8 | 21 | 2026-01-17 |
+| 5 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 219 | 1786 | 8 | 21 | 2026-01-17 |
 | 6 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 162 | 2633 | 11 | 13 | 2026-01-17 |
 | 7 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.4 | 140 | 2689 | 10 | 20 | 2026-01-19 |
 | 8 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 91 | 826 | 4 | 7 | 2026-01-08 |
 | 9 | [导出为 Word (增强版)](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.3 | 85 | 1580 | 11 | 3 | 2026-01-17 |
 | 10 | [📊 智能信息图 (AntV Infographic)](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.4.9 | 45 | 773 | 6 | 0 | 2026-01-17 |
 | 11 | [思维导图](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | action | 0.9.1 | 27 | 445 | 4 | 1 | 2026-01-17 |
-| 12 | [📂 Folder Memory – Auto-Evolving Project Context](https://openwebui.com/posts/folder_memory_auto_evolving_project_context_4a9875b2) | filter | 0.1.0 | 26 | 679 | 3 | 4 | 2026-01-20 |
+| 12 | [📂 Folder Memory – Auto-Evolving Project Context](https://openwebui.com/posts/folder_memory_auto_evolving_project_context_4a9875b2) | filter | 0.1.0 | 26 | 680 | 3 | 4 | 2026-01-20 |
 | 13 | [闪记卡 (Flash Card)](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | action | 0.2.4 | 19 | 501 | 6 | 1 | 2026-01-17 |
 | 14 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | action | 1.2.2 | 18 | 473 | 5 | 1 | 2026-01-21 |
 | 15 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 9 | 302 | 3 | 1 | 2026-01-08 |
-| 16 | [🚀 Open WebUI Prompt Plus: AI-Powered Prompt Manager](https://openwebui.com/posts/open_webui_prompt_plus_ai_powered_prompt_manager_s_15fa060e) | unknown |  | 0 | 57 | 2 | 3 | 2026-01-25 |
+| 16 | [🚀 Open WebUI Prompt Plus: AI-Powered Prompt Manager](https://openwebui.com/posts/open_webui_prompt_plus_ai_powered_prompt_manager_s_15fa060e) | unknown |  | 0 | 68 | 2 | 3 | 2026-01-25 |
 | 17 | [Review of Claude Haiku 4.5](https://openwebui.com/posts/review_of_claude_haiku_45_41b0db39) | unknown |  | 0 | 92 | 1 | 0 | 2026-01-14 |
 | 18 | [ 🛠️ Debug Open WebUI Plugins in Your Browser](https://openwebui.com/posts/debug_open_webui_plugins_in_your_browser_81bf7960) | unknown |  | 0 | 1267 | 12 | 8 | 2026-01-10 |
