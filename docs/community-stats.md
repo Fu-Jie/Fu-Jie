@@ -1,14 +1,14 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-01-29 15:18:38
+> 📅 Updated: 2026-01-29 16:11:49
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 20 |
-| ⬇️ Total Downloads | 2686 |
-| 👁️ Total Views | 31721 |
+| ⬇️ Total Downloads | 2688 |
+| 👁️ Total Views | 31754 |
 | 👍 Total Upvotes | 153 |
 | 💾 Total Saves | 206 |
 | 💬 Total Comments | 40 |
@@ -23,11 +23,11 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.2 | 690 | 6137 | 17 | 39 | 2026-01-28 |
-| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.5.0 | 479 | 4282 | 19 | 30 | 2026-01-29 |
-| 3 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 273 | 1163 | 4 | 6 | 2026-01-29 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.2 | 690 | 6142 | 17 | 39 | 2026-01-28 |
+| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.5.0 | 480 | 4287 | 19 | 30 | 2026-01-29 |
+| 3 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 273 | 1166 | 4 | 6 | 2026-01-29 |
 | 4 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.3 | 252 | 2047 | 8 | 21 | 2026-01-28 |
-| 5 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 249 | 2695 | 9 | 28 | 2026-01-28 |
+| 5 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 249 | 2696 | 9 | 28 | 2026-01-28 |
 | 6 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 183 | 2872 | 11 | 13 | 2026-01-28 |
 | 7 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.4 | 170 | 3001 | 10 | 22 | 2026-01-29 |
 | 8 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 100 | 916 | 4 | 8 | 2026-01-08 |
@@ -37,9 +37,9 @@
 | 12 | [思维导图](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | action | 0.9.2 | 28 | 488 | 4 | 1 | 2026-01-28 |
 | 13 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | action | 1.2.2 | 23 | 533 | 5 | 2 | 2026-01-28 |
 | 14 | [闪记卡 (Flash Card)](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | action | 0.2.4 | 20 | 545 | 6 | 1 | 2026-01-28 |
-| 15 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | action | 0.2.3 | 16 | 809 | 8 | 2 | 2026-01-29 |
-| 16 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 16 | 233 | 3 | 2 | 2026-01-28 |
+| 15 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 17 | 241 | 3 | 2 | 2026-01-28 |
+| 16 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | action | 0.2.3 | 16 | 812 | 8 | 2 | 2026-01-29 |
 | 17 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 10 | 329 | 3 | 1 | 2026-01-08 |
-| 18 | [🚀 Open WebUI Prompt Plus: AI-Powered Prompt Manager](https://openwebui.com/posts/open_webui_prompt_plus_ai_powered_prompt_manager_s_15fa060e) | unknown |  | 0 | 748 | 7 | 10 | 2026-01-28 |
+| 18 | [🚀 Open WebUI Prompt Plus: AI-Powered Prompt Manager](https://openwebui.com/posts/open_webui_prompt_plus_ai_powered_prompt_manager_s_15fa060e) | unknown |  | 0 | 754 | 7 | 10 | 2026-01-28 |
 | 19 | [Review of Claude Haiku 4.5](https://openwebui.com/posts/review_of_claude_haiku_45_41b0db39) | unknown |  | 0 | 102 | 1 | 0 | 2026-01-14 |
-| 20 | [ 🛠️ Debug Open WebUI Plugins in Your Browser](https://openwebui.com/posts/debug_open_webui_plugins_in_your_browser_81bf7960) | unknown |  | 0 | 1298 | 12 | 8 | 2026-01-10 |
+| 20 | [ 🛠️ Debug Open WebUI Plugins in Your Browser](https://openwebui.com/posts/debug_open_webui_plugins_in_your_browser_81bf7960) | unknown |  | 0 | 1300 | 12 | 8 | 2026-01-10 |
