@@ -75,25 +75,25 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 <!-- STATS_START -->
 ## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-02-05 01:18
+> 🕐 Auto-updated on 2026-02-05 02:17
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
-| [Fu-Jie](https://openwebui.com/u/Fu-Jie) | **187** | **243** | **40** |
+| [Fu-Jie](https://openwebui.com/u/Fu-Jie) | **188** | **243** | **40** |
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **20** | **3362** | **39354** | **210** | **239** |
+| **20** | **3373** | **39436** | **210** | **239** |
 
 ### 🔥 Top 5 Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 804 | 7065 |
-| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 575 | 5250 |
-| 🥉 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | 319 | 2492 |
-| 4️⃣ | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 316 | 1423 |
-| 5️⃣ | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 310 | 3225 |
+| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 804 | 7072 |
+| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 576 | 5259 |
+| 🥉 | [Export to Word (Enhanced)](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | 319 | 2498 |
+| 4️⃣ | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | 317 | 1429 |
+| 5️⃣ | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 310 | 3231 |
 
 *See full stats in [Community Stats Report](./docs/community-stats.md)*
 <!-- STATS_END -->
