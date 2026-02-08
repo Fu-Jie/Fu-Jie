@@ -1,14 +1,14 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-02-08 12:47:05
+> 📅 Updated: 2026-02-08 13:31:29
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 20 |
-| ⬇️ Total Downloads | 3812 |
-| 👁️ Total Views | 44629 |
+| ⬇️ Total Downloads | 3814 |
+| 👁️ Total Views | 44642 |
 | 👍 Total Upvotes | 221 |
 | 💾 Total Saves | 260 |
 | 💬 Total Comments | 51 |
@@ -24,17 +24,17 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.2 | 895 | 7928 | 22 | 49 | 2026-01-28 |
-| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.5.0 | 649 | 6051 | 24 | 33 | 2026-01-30 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 0.9.2 | 896 | 7932 | 22 | 49 | 2026-01-28 |
+| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.5.0 | 649 | 6052 | 24 | 33 | 2026-01-30 |
 | 3 | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.4 | 360 | 2780 | 14 | 26 | 2026-02-07 |
-| 4 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 341 | 3515 | 14 | 33 | 2026-01-28 |
+| 4 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.2.2 | 342 | 3521 | 14 | 33 | 2026-01-28 |
 | 5 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 332 | 1551 | 7 | 6 | 2026-01-29 |
 | 6 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.4 | 302 | 4354 | 17 | 27 | 2026-01-29 |
 | 7 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 215 | 3272 | 13 | 14 | 2026-01-28 |
 | 8 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 164 | 2356 | 8 | 4 | 2026-01-28 |
 | 9 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 140 | 1191 | 6 | 11 | 2026-01-08 |
 | 10 | [导出为Word增强版](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.4 | 119 | 2127 | 13 | 6 | 2026-02-07 |
-| 11 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | pipe | 0.5.1 | 65 | 2000 | 13 | 6 | 2026-02-08 |
+| 11 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | pipe | 0.5.1 | 65 | 2002 | 13 | 6 | 2026-02-08 |
 | 12 | [智能信息图](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.5.0 | 58 | 1019 | 10 | 1 | 2026-01-29 |
 | 13 | [📂 Folder Memory – Auto-Evolving Project Context](https://openwebui.com/posts/folder_memory_auto_evolving_project_context_4a9875b2) | filter | 0.1.0 | 57 | 1231 | 6 | 8 | 2026-01-20 |
 | 14 | [思维导图](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | action | 0.9.2 | 37 | 567 | 6 | 2 | 2026-01-28 |
