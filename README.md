@@ -61,14 +61,14 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 >
 > *   **Features**: Async support, tool calling, RAG integration.
 
-### 3. [Awesome OpenWebUI](https://github.com/Fu-Jie/awesome-openwebui)
+### 3. [OpenWebUI Extensions]([https://fu-jie.github.io/openwebui-extensions/])
 > **The Ecosystem.** A collection of 12+ enterprise-grade plugins.
 > *   **Smart Mind Map**: Turn text into interactive mind maps (Top 1 Plugin).
 > *   **Office Suite**: Export chat to Excel/Word for business workflows.
 
 ### 📈 Project Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Fu-Jie/awesome-openwebui,Fu-Jie/openwebui-chat-client,Fu-Jie/deepseek-free-api&type=Date)](https://star-history.com/#Fu-Jie/awesome-openwebui&Fu-Jie/openwebui-chat-client&Fu-Jie/deepseek-free-api&type=Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Fu-Jie/openwebui-extensions,Fu-Jie/openwebui-chat-client,Fu-Jie/deepseek-free-api&type=Date)](https://star-history.com/#Fu-Jie/openwebui-extensions&Fu-Jie/openwebui-chat-client&Fu-Jie/deepseek-free-api&type=Date)
 
 ---
 
