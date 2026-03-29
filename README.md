@@ -75,7 +75,7 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 <!-- STATS_START -->
 ## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-03-30 00:09
+> 🕐 Auto-updated on 2026-03-30 01:09
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
@@ -83,17 +83,17 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **30** | **12100** | **149312** | **358** | **582** |
+| **30** | **12103** | **149421** | **358** | **582** |
 
 ### 🔥 Top 5 Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 2274 | 20235 |
-| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 1647 | 16886 |
-| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 1089 | 9848 |
-| 4️⃣ | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | 1077 | 11008 |
-| 5️⃣ | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | 1001 | 8075 |
+| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 2274 | 20250 |
+| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 1647 | 16893 |
+| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 1090 | 9857 |
+| 4️⃣ | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | 1078 | 11023 |
+| 5️⃣ | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | 1002 | 8081 |
 
 *See full stats in [Community Stats Report](./docs/community-stats.md)*
 <!-- STATS_END -->
