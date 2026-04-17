@@ -1,14 +1,14 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-04-18 03:25:45
+> 📅 Updated: 2026-04-18 04:15:41
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 31 |
-| ⬇️ Total Downloads | 16612 |
-| 👁️ Total Views | 199472 |
+| ⬇️ Total Downloads | 16620 |
+| 👁️ Total Views | 199589 |
 | 👍 Total Upvotes | 387 |
 | 💾 Total Saves | 741 |
 | 💬 Total Comments | 126 |
@@ -24,20 +24,20 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 1.0.0 | 3029 | 28488 | 38 | 111 | 2026-04-15 |
-| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.6.1 | 2021 | 21552 | 31 | 78 | 2026-04-15 |
-| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.6.0 | 1653 | 14531 | 27 | 79 | 2026-04-15 |
-| 4 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.8 | 1542 | 14824 | 29 | 68 | 2026-04-15 |
-| 5 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 1419 | 15368 | 13 | 50 | 2026-03-22 |
-| 6 | [OpenWebUI Skills Manager Tool](https://openwebui.com/posts/openwebui_skills_manager_tool_b4bce8e4) | unknown |  | 1301 | 14556 | 11 | 53 | 2026-04-15 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 1.0.0 | 3033 | 28526 | 38 | 111 | 2026-04-15 |
+| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.6.1 | 2022 | 21565 | 31 | 78 | 2026-04-15 |
+| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | action | 1.6.0 | 1654 | 14542 | 27 | 79 | 2026-04-15 |
+| 4 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.8 | 1542 | 14829 | 29 | 68 | 2026-04-15 |
+| 5 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 1420 | 15381 | 13 | 50 | 2026-03-22 |
+| 6 | [OpenWebUI Skills Manager Tool](https://openwebui.com/posts/openwebui_skills_manager_tool_b4bce8e4) | unknown |  | 1302 | 14571 | 11 | 53 | 2026-04-15 |
 | 7 | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.4.4 | 1292 | 10420 | 23 | 50 | 2026-04-15 |
 | 8 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.7 | 915 | 6188 | 13 | 18 | 2026-04-15 |
-| 9 | [GitHub Copilot  Agent SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | pipe | 0.13.0 | 667 | 9597 | 18 | 21 | 2026-04-16 |
-| 10 | [Batch Install Plugins from GitHub](https://openwebui.com/posts/batch_install_plugins_install_popular_plugins_in_s_c9fd6e80) | unknown |  | 633 | 8340 | 13 | 26 | 2026-04-15 |
-| 11 | [🧠 Smart Mind Map Tool: Auto-Generate Interactive Knowledge Graphs](https://openwebui.com/posts/smart_mind_map_tool_auto_generate_interactive_know_d25f4e3d) | unknown |  | 502 | 5841 | 7 | 21 | 2026-03-05 |
+| 9 | [GitHub Copilot  Agent SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | pipe | 0.13.0 | 667 | 9602 | 18 | 21 | 2026-04-16 |
+| 10 | [Batch Install Plugins from GitHub](https://openwebui.com/posts/batch_install_plugins_install_popular_plugins_in_s_c9fd6e80) | unknown |  | 633 | 8344 | 13 | 26 | 2026-04-15 |
+| 11 | [🧠 Smart Mind Map Tool: Auto-Generate Interactive Knowledge Graphs](https://openwebui.com/posts/smart_mind_map_tool_auto_generate_interactive_know_d25f4e3d) | unknown |  | 502 | 5843 | 7 | 21 | 2026-03-05 |
 | 12 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 438 | 6303 | 13 | 24 | 2026-04-15 |
 | 13 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 348 | 2839 | 8 | 22 | 2026-01-08 |
-| 14 | [导出为Word增强版](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.4 | 202 | 3927 | 14 | 8 | 2026-04-15 |
+| 14 | [导出为Word增强版](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.4.4 | 202 | 3928 | 14 | 8 | 2026-04-15 |
 | 15 | [📂 Folder Memory – Auto-Evolving Project Context](https://openwebui.com/posts/folder_memory_auto_evolving_project_context_4a9875b2) | filter | 0.1.0 | 181 | 2983 | 7 | 18 | 2026-01-20 |
 | 16 | [GitHub Copilot SDK Files Filter](https://openwebui.com/posts/github_copilot_sdk_files_filter_403a62ee) | filter | 0.1.3 | 128 | 2991 | 5 | 1 | 2026-04-15 |
 | 17 | [智能信息图](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.5.0 | 82 | 1995 | 10 | 1 | 2026-03-22 |
@@ -46,7 +46,7 @@
 | 20 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | action | 1.2.2 | 54 | 1154 | 7 | 5 | 2026-02-13 |
 | 21 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 45 | 937 | 6 | 5 | 2026-01-08 |
 | 22 | [闪记卡 (Flash Card)](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | action | 0.2.4 | 40 | 1202 | 7 | 3 | 2026-04-15 |
-| 23 | [Copilot Agent SDK Pipe v0.13.0 — Agent Teams + Autopilot Mode](https://openwebui.com/posts/github_copilot_sdk_pipe_v0130_agent_team_autopilot_7590745c) | unknown |  | 0 | 2829 | 6 | 6 | 2026-04-15 |
+| 23 | [Copilot Agent SDK Pipe v0.13.0 — Agent Teams + Autopilot Mode](https://openwebui.com/posts/github_copilot_sdk_pipe_v0130_agent_team_autopilot_7590745c) | unknown |  | 0 | 2839 | 6 | 6 | 2026-04-15 |
 | 24 | [🧠 Wisdom Synthesizer (Collective Wisdom Synthesizer)](https://openwebui.com/posts/wisdom_synthesizer_collective_wisdom_synthesizer_f7c0d0fe) | unknown |  | 0 | 2803 | 5 | 6 | 2026-03-22 |
 | 25 | [An Unconventional Use of Open Terminal ⚡](https://openwebui.com/posts/an_unconventional_use_of_open_terminal_35498f8f) | unknown |  | 0 | 4151 | 9 | 3 | 2026-03-07 |
 | 26 | [🚀 GitHub Copilot SDK Pipe v0.9.0: Skills & RichUI](https://openwebui.com/posts/github_copilot_sdk_pipe_v090_copilot_sdk_skills_co_99a42452) | unknown |  | 0 | 2020 | 6 | 1 | 2026-02-28 |
