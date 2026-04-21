@@ -75,25 +75,25 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 <!-- STATS_START -->
 ## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-04-21 23:30
+> 🕐 Auto-updated on 2026-04-22 00:26
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
-| [Fu-Jie](https://openwebui.com/u/Fu-Jie) | **680** | **451** | **103** |
+| [Fu-Jie](https://openwebui.com/u/Fu-Jie) | **681** | **451** | **103** |
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **31** | **17522** | **209780** | **389** | **756** |
+| **31** | **17535** | **209936** | **389** | **756** |
 
 ### 🔥 Top 5 Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 3233 | 30675 |
-| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 2104 | 22366 |
-| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 1756 | 15488 |
-| 4️⃣ | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | 1639 | 15702 |
-| 5️⃣ | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | 1492 | 16181 |
+| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 3236 | 30712 |
+| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 2104 | 22370 |
+| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 1761 | 15520 |
+| 4️⃣ | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | 1640 | 15707 |
+| 5️⃣ | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | 1493 | 16190 |
 
 *See full stats in [Community Stats Report](./docs/community-stats.md)*
 <!-- STATS_END -->
