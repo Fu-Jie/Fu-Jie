@@ -75,7 +75,7 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 <!-- STATS_START -->
 ## 📊 open webUI Community
 
-> 🕐 Auto-updated on 2026-05-03 06:14
+> 🕐 Auto-updated on 2026-05-03 07:16
 
 | 👤 Author | 👥 Followers | ⭐ Points | 🏆 Contributions |
 |:---:|:---:|:---:|:---:|
@@ -83,17 +83,17 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 
 | 📝 Posts | ⬇️ Downloads | 👁️ Views | 👍 Upvotes | 💾 Saves |
 |:---:|:---:|:---:|:---:|:---:|
-| **32** | **20605** | **244741** | **407** | **854** |
+| **32** | **20612** | **244830** | **407** | **854** |
 
 ### 🔥 Top 5 Popular Plugins
 
 | Rank | Plugin | Downloads | Views |
 |:---:|------|:---:|:---:|
-| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 3776 | 36063 |
-| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 2351 | 24804 |
-| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 2222 | 19137 |
-| 4️⃣ | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | 1909 | 18572 |
-| 5️⃣ | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | 1764 | 18902 |
+| 🥇 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | 3776 | 36067 |
+| 🥈 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | 2352 | 24814 |
+| 🥉 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | 2222 | 19141 |
+| 4️⃣ | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | 1909 | 18576 |
+| 5️⃣ | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | 1768 | 18919 |
 
 *See full stats in [Community Stats Report](./docs/community-stats.md)*
 <!-- STATS_END -->
