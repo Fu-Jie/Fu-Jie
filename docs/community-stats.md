@@ -1,14 +1,14 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-05-04 08:39:17
+> 📅 Updated: 2026-05-04 09:37:12
 
 ## 📈 Overview
 
 | Metric | Value |
 |------|------|
 | 📝 Total Posts | 32 |
-| ⬇️ Total Downloads | 20858 |
-| 👁️ Total Views | 247338 |
+| ⬇️ Total Downloads | 20868 |
+| 👁️ Total Views | 247393 |
 | 👍 Total Upvotes | 409 |
 | 💾 Total Saves | 861 |
 | 💬 Total Comments | 157 |
@@ -23,29 +23,29 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 1.0.1 | 3815 | 36443 | 40 | 135 | 2026-04-24 |
-| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.6.2 | 2366 | 24987 | 31 | 84 | 2026-04-25 |
-| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.6.1 | 2267 | 19445 | 29 | 90 | 2026-04-26 |
-| 4 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.8 | 1926 | 18780 | 32 | 75 | 2026-04-15 |
-| 5 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 1796 | 19116 | 13 | 59 | 2026-03-22 |
-| 6 | [OpenWebUI Skills Manager Tool](https://openwebui.com/posts/openwebui_skills_manager_tool_b4bce8e4) | unknown |  | 1766 | 18830 | 14 | 67 | 2026-05-03 |
-| 7 | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.5.0 | 1542 | 12617 | 23 | 55 | 2026-05-03 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 1.0.1 | 3817 | 36454 | 40 | 135 | 2026-04-24 |
+| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.6.2 | 2366 | 24991 | 31 | 84 | 2026-04-25 |
+| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.6.1 | 2267 | 19446 | 29 | 90 | 2026-04-26 |
+| 4 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.8 | 1926 | 18782 | 32 | 75 | 2026-04-15 |
+| 5 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 1800 | 19130 | 13 | 59 | 2026-03-22 |
+| 6 | [OpenWebUI Skills Manager Tool](https://openwebui.com/posts/openwebui_skills_manager_tool_b4bce8e4) | unknown |  | 1767 | 18833 | 14 | 67 | 2026-05-03 |
+| 7 | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.5.0 | 1543 | 12622 | 23 | 55 | 2026-05-03 |
 | 8 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.8 | 1075 | 7467 | 13 | 23 | 2026-04-25 |
-| 9 | [Batch Install Plugins from GitHub](https://openwebui.com/posts/batch_install_plugins_install_popular_plugins_in_s_c9fd6e80) | unknown |  | 1001 | 11412 | 14 | 35 | 2026-05-03 |
-| 10 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | action | 0.13.1 | 804 | 11499 | 18 | 24 | 2026-04-25 |
-| 11 | [🧠 Smart Mind Map Tool: Auto-Generate Interactive Knowledge Graphs](https://openwebui.com/posts/smart_mind_map_tool_auto_generate_interactive_know_d25f4e3d) | unknown |  | 686 | 7399 | 8 | 27 | 2026-03-05 |
-| 12 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 480 | 7058 | 13 | 24 | 2026-04-15 |
-| 13 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 392 | 3249 | 8 | 22 | 2026-01-08 |
-| 14 | [导出为Word增强版](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.5.0 | 211 | 4331 | 14 | 8 | 2026-05-03 |
+| 9 | [Batch Install Plugins from GitHub](https://openwebui.com/posts/batch_install_plugins_install_popular_plugins_in_s_c9fd6e80) | unknown |  | 1001 | 11413 | 14 | 35 | 2026-05-03 |
+| 10 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | action | 0.13.1 | 804 | 11500 | 18 | 24 | 2026-04-25 |
+| 11 | [🧠 Smart Mind Map Tool: Auto-Generate Interactive Knowledge Graphs](https://openwebui.com/posts/smart_mind_map_tool_auto_generate_interactive_know_d25f4e3d) | unknown |  | 687 | 7401 | 8 | 27 | 2026-03-05 |
+| 12 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 480 | 7059 | 13 | 24 | 2026-04-15 |
+| 13 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 392 | 3250 | 8 | 22 | 2026-01-08 |
+| 14 | [导出为Word增强版](https://openwebui.com/posts/导出为_word_支持公式流程图表格和代码块_8a6306c0) | action | 0.5.0 | 211 | 4333 | 14 | 8 | 2026-05-03 |
 | 15 | [📂 Folder Memory – Auto-Evolving Project Context](https://openwebui.com/posts/folder_memory_auto_evolving_project_context_4a9875b2) | filter | 0.1.0 | 203 | 3318 | 7 | 19 | 2026-01-20 |
 | 16 | [GitHub Copilot SDK Files Filter](https://openwebui.com/posts/github_copilot_sdk_files_filter_403a62ee) | filter | 0.1.3 | 148 | 3247 | 5 | 2 | 2026-04-15 |
 | 17 | [智能信息图](https://openwebui.com/posts/智能信息图_e04a48ff) | action | 1.5.0 | 84 | 2115 | 10 | 1 | 2026-03-22 |
-| 18 | [🔍 One-Sentence Concept Explainer](https://openwebui.com/posts/one_sentence_concept_explainer_79be55d3) | unknown |  | 76 | 2484 | 3 | 7 | 2026-03-22 |
+| 18 | [🔍 One-Sentence Concept Explainer](https://openwebui.com/posts/one_sentence_concept_explainer_79be55d3) | unknown |  | 77 | 2490 | 3 | 7 | 2026-03-22 |
 | 19 | [思维导图](https://openwebui.com/posts/智能生成交互式思维导图帮助用户可视化知识_8d4b097b) | action | 0.9.2 | 69 | 1103 | 6 | 3 | 2026-02-13 |
 | 20 | [异步上下文压缩](https://openwebui.com/posts/异步上下文压缩_5c0617cb) | action | 1.2.2 | 60 | 1296 | 7 | 5 | 2026-02-13 |
 | 21 | [精读](https://openwebui.com/posts/精读_99830b0f) | action | 1.0.0 | 50 | 1091 | 8 | 5 | 2026-01-08 |
 | 22 | [闪记卡 (Flash Card)](https://openwebui.com/posts/闪记卡生成插件_4a31eac3) | action | 0.2.4 | 41 | 1283 | 7 | 3 | 2026-04-15 |
-| 23 | [Open WebUI 0.9.x Compatibility — Full Plugin Suite Updated](https://openwebui.com/posts/open_webui_09x_compatibility_full_plugin_suite_upd_fcb5d050) | unknown |  | 0 | 4086 | 7 | 8 | 2026-04-26 |
+| 23 | [Open WebUI 0.9.x Compatibility — Full Plugin Suite Updated](https://openwebui.com/posts/open_webui_09x_compatibility_full_plugin_suite_upd_fcb5d050) | unknown |  | 0 | 4087 | 7 | 8 | 2026-04-26 |
 | 24 | [Copilot Agent SDK Pipe v0.13.0 — Agent Teams + Autopilot Mode](https://openwebui.com/posts/github_copilot_sdk_pipe_v0130_agent_team_autopilot_7590745c) | unknown |  | 0 | 4478 | 6 | 13 | 2026-04-15 |
 | 25 | [🧠 Wisdom Synthesizer (Collective Wisdom Synthesizer)](https://openwebui.com/posts/wisdom_synthesizer_collective_wisdom_synthesizer_f7c0d0fe) | unknown |  | 0 | 2939 | 5 | 6 | 2026-03-22 |
 | 26 | [An Unconventional Use of Open Terminal ⚡](https://openwebui.com/posts/an_unconventional_use_of_open_terminal_35498f8f) | unknown |  | 0 | 4313 | 9 | 3 | 2026-03-07 |
