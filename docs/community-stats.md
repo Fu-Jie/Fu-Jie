@@ -1,6 +1,6 @@
 # 📊 OpenWebUI Community Stats Report
 
-> 📅 Updated: 2026-05-09 14:45:21
+> 📅 Updated: 2026-05-09 15:35:21
 
 ## 📈 Overview
 
@@ -8,7 +8,7 @@
 |------|------|
 | 📝 Total Posts | 32 |
 | ⬇️ Total Downloads | 22042 |
-| 👁️ Total Views | 260736 |
+| 👁️ Total Views | 260785 |
 | 👍 Total Upvotes | 414 |
 | 💾 Total Saves | 901 |
 | 💬 Total Comments | 165 |
@@ -23,16 +23,16 @@
 
 | Rank | Title | Type | Version | Downloads | Views | Upvotes | Saves | Updated |
 |:---:|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 1.0.1 | 4003 | 38467 | 40 | 140 | 2026-04-24 |
-| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.6.2 | 2460 | 25954 | 31 | 86 | 2026-04-25 |
-| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.6.1 | 2448 | 21057 | 29 | 94 | 2026-05-08 |
-| 4 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.8 | 2039 | 20000 | 33 | 77 | 2026-04-15 |
-| 5 | [OpenWebUI Skills Manager Tool](https://openwebui.com/posts/openwebui_skills_manager_tool_b4bce8e4) | unknown |  | 1921 | 20372 | 14 | 73 | 2026-05-08 |
-| 6 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 1875 | 20263 | 13 | 64 | 2026-03-22 |
-| 7 | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.5.0 | 1641 | 13408 | 23 | 60 | 2026-05-03 |
+| 1 | [Smart Mind Map](https://openwebui.com/posts/turn_any_text_into_beautiful_mind_maps_3094c59a) | action | 1.0.1 | 4003 | 38473 | 40 | 140 | 2026-04-24 |
+| 2 | [Smart Infographic](https://openwebui.com/posts/smart_infographic_ad6f0c7f) | action | 1.6.2 | 2460 | 25958 | 31 | 86 | 2026-04-25 |
+| 3 | [Async Context Compression](https://openwebui.com/posts/async_context_compression_b1655bc8) | filter | 1.6.1 | 2448 | 21065 | 29 | 94 | 2026-05-08 |
+| 4 | [Markdown Normalizer](https://openwebui.com/posts/markdown_normalizer_baaa8732) | action | 1.2.8 | 2039 | 20008 | 33 | 77 | 2026-04-15 |
+| 5 | [OpenWebUI Skills Manager Tool](https://openwebui.com/posts/openwebui_skills_manager_tool_b4bce8e4) | unknown |  | 1921 | 20378 | 14 | 73 | 2026-05-08 |
+| 6 | [AI Task Instruction Generator](https://openwebui.com/posts/ai_task_instruction_generator_9bab8b37) | unknown |  | 1875 | 20266 | 13 | 64 | 2026-03-22 |
+| 7 | [Export to Word Enhanced](https://openwebui.com/posts/export_to_word_enhanced_formatting_fca6a315) | action | 0.5.0 | 1641 | 13415 | 23 | 60 | 2026-05-03 |
 | 8 | [Export to Excel](https://openwebui.com/posts/export_mulit_table_to_excel_244b8f9d) | action | 0.3.9 | 1125 | 7856 | 13 | 24 | 2026-05-08 |
-| 9 | [Batch Install Plugins from GitHub](https://openwebui.com/posts/batch_install_plugins_install_popular_plugins_in_s_c9fd6e80) | unknown |  | 1102 | 12378 | 14 | 38 | 2026-05-08 |
-| 10 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | action | 0.13.1 | 823 | 11957 | 19 | 26 | 2026-04-25 |
+| 9 | [Batch Install Plugins from GitHub](https://openwebui.com/posts/batch_install_plugins_install_popular_plugins_in_s_c9fd6e80) | unknown |  | 1102 | 12381 | 14 | 38 | 2026-05-08 |
+| 10 | [GitHub Copilot Official SDK Pipe](https://openwebui.com/posts/github_copilot_official_sdk_pipe_ce96f7b4) | action | 0.13.1 | 823 | 11960 | 19 | 26 | 2026-04-25 |
 | 11 | [🧠 Smart Mind Map Tool: Auto-Generate Interactive Knowledge Graphs](https://openwebui.com/posts/smart_mind_map_tool_auto_generate_interactive_know_d25f4e3d) | unknown |  | 736 | 7941 | 8 | 29 | 2026-03-05 |
 | 12 | [Flash Card](https://openwebui.com/posts/flash_card_65a2ea8f) | action | 0.2.4 | 494 | 7281 | 13 | 25 | 2026-04-15 |
 | 13 | [Deep Dive](https://openwebui.com/posts/deep_dive_c0b846e4) | action | 1.0.0 | 402 | 3387 | 8 | 22 | 2026-01-08 |
@@ -52,6 +52,6 @@
 | 27 | [🚀 GitHub Copilot SDK Pipe v0.9.0: Skills & RichUI](https://openwebui.com/posts/github_copilot_sdk_pipe_v090_copilot_sdk_skills_co_99a42452) | unknown |  | 0 | 2111 | 6 | 1 | 2026-02-28 |
 | 28 | [🚀 GitHub Copilot SDK Pipe v0.7.0: Skills & Rich UI 🛠️](https://openwebui.com/posts/github_copilot_sdk_pipe_v070_native_tool_ui_zero_c_4af38131) | unknown |  | 0 | 3251 | 10 | 4 | 2026-02-28 |
 | 29 | [🚀 GitHub Copilot SDK Pipe: AI That Executes, Not Just Talks](https://openwebui.com/posts/github_copilot_sdk_for_openwebui_elevate_your_ai_t_a140f293) | unknown |  | 0 | 2576 | 7 | 5 | 2026-02-10 |
-| 30 | [🚀 Open WebUI Prompt Plus: AI-Powered Prompt Manager](https://openwebui.com/posts/open_webui_prompt_plus_ai_powered_prompt_manager_s_15fa060e) | unknown |  | 0 | 2905 | 17 | 33 | 2026-01-28 |
+| 30 | [🚀 Open WebUI Prompt Plus: AI-Powered Prompt Manager](https://openwebui.com/posts/open_webui_prompt_plus_ai_powered_prompt_manager_s_15fa060e) | unknown |  | 0 | 2906 | 17 | 33 | 2026-01-28 |
 | 31 | [Review of Claude Haiku 4.5](https://openwebui.com/posts/review_of_claude_haiku_45_41b0db39) | unknown |  | 0 | 386 | 2 | 0 | 2026-01-14 |
 | 32 | [ 🛠️ Debug Open WebUI Plugins in Your Browser](https://openwebui.com/posts/debug_open_webui_plugins_in_your_browser_81bf7960) | unknown |  | 0 | 1902 | 18 | 15 | 2026-01-10 |
