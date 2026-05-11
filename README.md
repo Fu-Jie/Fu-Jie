@@ -239,12 +239,12 @@ InsightFlow 真实运行数据：85 个 Agent 会话 · 94 个任务（95.7% 完
 
 | 项目 | Stars | 简介 |
 |---|---:|---|
-| [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | 205 | OpenWebUI 插件生态 —— Copilot 集成、Excel/HTML 渲染、思维导图生成、异步上下文压缩 |
-| [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | 77 | DeepSeek 社区维护版 —— 协议修复、R1 联网引用解析、多架构 Docker |
-| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | 39 | 前端 Prompt 管理增强套件 —— Spotlight 搜索、AI 自动分类、智能 UI 渲染 |
-| [openwebui-chat-client](https://github.com/Fu-Jie/openwebui-chat-client) | 31 | 面向 LLM 调度的有状态 Python SDK —— 异步/同步、多模态、工具调用 |
-| [mimo-free-api-mcp](https://github.com/Fu-Jie/mimo-free-api-mcp) | 11 | MiMo Free API MCP 网关 —— 搜索、识图、长文本分段、SQLite 持久化 |
-| [open-webui-pipeline-wisdom-synthesizer](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) | 10 | Open WebUI 管道 —— 聚合多路 AI 专家视角，输出结构化分析报告 |
+| [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | 205 | OpenWebUI 插件生态系统：深度集成 GitHub Copilot，支持 Excel 渲染、思维导图生成及异步上下文压缩。 |
+| [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | 77 | DeepSeek API 社区适配版：修复原生协议问题，支持 R1 搜索引用解析，提供多架构 Docker 支持。 |
+| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | 39 | OpenWebUI 提示词增强套件：提供 Spotlight 式搜索、AI 自动分类以及高度交互的提示词表单。 |
+| [openwebui-chat-client](https://github.com/Fu-Jie/openwebui-chat-client) | 31 | 有状态的 Python SDK：专为 OpenWebUI 设计，支持异步/同步、多模态及复杂的工具调用流。 |
+| [mimo-free-api-mcp](https://github.com/Fu-Jie/mimo-free-api-mcp) | 11 | MiMo Free API MCP 网关：基于官网逆向的高性能代理，支持搜索、识图、长文本分段及 SQLite 持久化。 |
+| [open-webui-pipeline-wisdom-synthesizer](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) | 10 | Open WebUI 智慧聚合管道：模拟多专家会诊模式，将多路 AI 意见聚合为结构化的专家分析报告。 |
 
 **OpenWebUI 官方社区：** [openwebui.com/u/Fu-Jie](https://openwebui.com/u/Fu-Jie) · 23 万+ 浏览 · 22,042 插件下载 · 839+ 关注 · 官方 Newsletter 两次推荐
 
