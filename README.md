@@ -6,6 +6,10 @@
 
 **AI-native Workflow Engineer · LLMOps / Agent Systems · Shanghai**
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Fu-Jie&label=GitHub%20Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
+</p>
+
 I build production-grade AI systems that turn multi-model reasoning, agent workflows, and business data operations into reliable software infrastructure.
 
 My work focuses on one idea:
