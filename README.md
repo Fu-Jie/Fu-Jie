@@ -86,18 +86,17 @@ Any agent task — data analysis, report generation, monitoring & alerting, data
 ---
 
 ## 📦 Open Source
-
 | Project | Stars | Description |
-|---|---|---|
+|---|---|
 | [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | ![](https://img.shields.io/github/stars/Fu-Jie/openwebui-extensions?style=flat-square&labelColor=1e293b&color=10b981) | OpenWebUI plugin ecosystem — Copilot integration, Excel/HTML rendering, MindMap generation, async context compression |
-| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | ![](https://img.shields.io/github/stars/Fu-Jie/open-webui-prompt-plus?style=flat-square&labelColor=1e293b&color=10b981) | Frontend prompt management suite — spotlight search, AI-generated prompt categories, smart UI rendering |
 | [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | ![](https://img.shields.io/github/stars/Fu-Jie/deepseek-free-api?style=flat-square&labelColor=1e293b&color=10b981) | Community-maintained DeepSeek API adapter — protocol fixes, R1 search citation parsing, multi-arch Docker |
-| [openwebui-chat-client](https://pypi.org/project/openwebui-chat-client/) | ![](https://img.shields.io/pypi/dm/openwebui-chat-client?style=flat-square&labelColor=1e293b&color=3b82f6&label=dl%2Fmo) | Stateful Python SDK for LLM dispatch — async/sync, multimodal, tool-use support |
-
+| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | ![](https://img.shields.io/github/stars/Fu-Jie/open-webui-prompt-plus?style=flat-square&labelColor=1e293b&color=10b981) | Frontend prompt management suite — spotlight search, AI-generated prompt categories, smart UI rendering |
+| [openwebui-chat-client](https://github.com/Fu-Jie/openwebui-chat-client) | ![](https://img.shields.io/github/stars/Fu-Jie/openwebui-chat-client?style=flat-square&labelColor=1e293b&color=10b981) | Stateful Python SDK for LLM dispatch — async/sync, multimodal, tool-use support |
+| [mimo-free-api-mcp](https://github.com/Fu-Jie/mimo-free-api-mcp) | ![](https://img.shields.io/github/stars/Fu-Jie/mimo-free-api-mcp?style=flat-square&labelColor=1e293b&color=10b981) | MiMo Free API MCP gateway — search, vision, long-text segmentation, SQLite persistence |
+| [open-webui-pipeline-wisdom-synthesizer](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) | ![](https://img.shields.io/github/stars/Fu-Jie/open-webui-pipeline-wisdom-synthesizer?style=flat-square&labelColor=1e293b&color=10b981) | Open WebUI pipeline for structured multi-expert analysis reports |
 **OpenWebUI Community:** [openwebui.com/u/Fu-Jie](https://openwebui.com/u/Fu-Jie)
 · 230K+ profile views · 22K+ plugin downloads · 839+ followers
 · Featured in official Newsletter ×2 · Recognized by project author tjbck
-
 ---
 
 ## 🛠 Tech Stack
@@ -220,18 +219,16 @@ InsightFlow 真实运行数据：85 个 Agent 会话 · 94 个任务（95.7% 完
 > 实际案例：AI 自助取数 Agent 以 Prefect Scheduled Flow 形式在生产运行，自动化处理全公司 70%+ 的日常取数需求，具备完整重试与故障恢复，无需人工值守。
 
 ---
-
 ### 📦 开源项目
-
 | 项目 | Stars | 简介 |
-|---|---|---|
+|---|---|
 | [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | ![](https://img.shields.io/github/stars/Fu-Jie/openwebui-extensions?style=flat-square&labelColor=1e293b&color=10b981) | OpenWebUI 插件生态 —— Copilot 集成、Excel/HTML 渲染、思维导图生成、异步上下文压缩 |
-| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | ![](https://img.shields.io/github/stars/Fu-Jie/open-webui-prompt-plus?style=flat-square&labelColor=1e293b&color=10b981) | 前端 Prompt 管理增强套件 —— Spotlight 搜索、AI 自动分类、智能 UI 渲染 |
 | [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | ![](https://img.shields.io/github/stars/Fu-Jie/deepseek-free-api?style=flat-square&labelColor=1e293b&color=10b981) | DeepSeek 社区维护版 —— 协议修复、R1 联网引用解析、多架构 Docker |
-| [openwebui-chat-client](https://pypi.org/project/openwebui-chat-client/) | ![](https://img.shields.io/pypi/dm/openwebui-chat-client?style=flat-square&labelColor=1e293b&color=3b82f6&label=dl%2Fmo) | 面向 LLM 调度的有状态 Python SDK —— 异步/同步、多模态、工具调用 |
-
+| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | ![](https://img.shields.io/github/stars/Fu-Jie/open-webui-prompt-plus?style=flat-square&labelColor=1e293b&color=10b981) | 前端 Prompt 管理增强套件 —— Spotlight 搜索、AI 自动分类、智能 UI 渲染 |
+| [openwebui-chat-client](https://github.com/Fu-Jie/openwebui-chat-client) | ![](https://img.shields.io/github/stars/Fu-Jie/openwebui-chat-client?style=flat-square&labelColor=1e293b&color=10b981) | 面向 LLM 调度的有状态 Python SDK —— 异步/同步、多模态、工具调用 |
+| [mimo-free-api-mcp](https://github.com/Fu-Jie/mimo-free-api-mcp) | ![](https://img.shields.io/github/stars/Fu-Jie/mimo-free-api-mcp?style=flat-square&labelColor=1e293b&color=10b981) | MiMo Free API MCP 网关 —— 搜索、识图、长文本分段、SQLite 持久化 |
+| [open-webui-pipeline-wisdom-synthesizer](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) | ![](https://img.shields.io/github/stars/Fu-Jie/open-webui-pipeline-wisdom-synthesizer?style=flat-square&labelColor=1e293b&color=10b981) | Open WebUI 管道 —— 聚合多路 AI 专家视角，输出结构化分析报告 |
 **OpenWebUI 官方社区：** [openwebui.com/u/Fu-Jie](https://openwebui.com/u/Fu-Jie) · 23 万+ 浏览 · 22,042 插件下载 · 839+ 关注 · 官方 Newsletter 两次推荐
-
 ---
 
 ### 🛠 技术栈
