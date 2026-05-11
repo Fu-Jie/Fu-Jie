@@ -148,7 +148,7 @@ Outside of work: building InsightFlow, researching multi-agent parallel developm
 
 **AI 应用开发者 · 上海**
 
-我构建让 AI 真正嵌入实际工作流的工具 —— 不只是聊天框，而是能思考、自动化、输出结构化结果的系统。
+致力于构建深度融入实际工作流的 AI 工具 —— 告别单一的聊天框，打造具备自主思考、自动化执行且能交付结构化价值的智能系统。
 
 ---
 
