@@ -88,7 +88,7 @@ Any agent task — data analysis, report generation, monitoring & alerting, data
 ## 📦 Open Source
 
 | Project | Stars | Description |
-|---|---|---|
+|---|---:|---|
 | [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | 205 | OpenWebUI plugin ecosystem — Copilot integration, Excel/HTML rendering, MindMap generation, async context compression |
 | [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | 77 | Community-maintained DeepSeek API adapter — protocol fixes, R1 search citation parsing, multi-arch Docker |
 | [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | 39 | Frontend prompt management suite — spotlight search, AI-generated prompt categories, smart UI rendering |
@@ -234,10 +234,11 @@ InsightFlow 真实运行数据：85 个 Agent 会话 · 94 个任务（95.7% 完
 | 📝 Posts | ⬇️ Plugin Downloads | 👁️ Plugin Views | 👍 Upvotes | 💾 Plugin Saves |
 | :---: | :---: | :---: | :---: | :---: |
 | ![home_posts](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_posts.json&style=flat) | ![home_downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_downloads.json&style=flat) | ![home_views](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_views.json&style=flat) | ![home_upvotes](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_upvotes.json&style=flat) | ![home_saves](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_saves.json&style=flat) |
+
 ### 📦 开源项目
 
 | 项目 | Stars | 简介 |
-|---|---|---|
+|---|---:|---|
 | [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | 205 | OpenWebUI 插件生态 —— Copilot 集成、Excel/HTML 渲染、思维导图生成、异步上下文压缩 |
 | [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | 77 | DeepSeek 社区维护版 —— 协议修复、R1 联网引用解析、多架构 Docker |
 | [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | 39 | 前端 Prompt 管理增强套件 —— Spotlight 搜索、AI 自动分类、智能 UI 渲染 |
