@@ -85,10 +85,10 @@ Any agent task — data analysis, report generation, monitoring & alerting, data
 
 ---
 
-## ð¦ Open Source
+## 📦 Open Source
 
 | Project | Stars | Description |
-|---|---:|
+|---|---|---|
 | [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | 205 | OpenWebUI plugin ecosystem — Copilot integration, Excel/HTML rendering, MindMap generation, async context compression |
 | [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | 77 | Community-maintained DeepSeek API adapter — protocol fixes, R1 search citation parsing, multi-arch Docker |
 | [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | 39 | Frontend prompt management suite — spotlight search, AI-generated prompt categories, smart UI rendering |
@@ -96,7 +96,10 @@ Any agent task — data analysis, report generation, monitoring & alerting, data
 | [mimo-free-api-mcp](https://github.com/Fu-Jie/mimo-free-api-mcp) | 11 | MiMo Free API MCP gateway — search, vision, long-text segmentation, SQLite persistence |
 | [open-webui-pipeline-wisdom-synthesizer](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) | 10 | Open WebUI pipeline for structured multi-expert analysis reports |
 
-**OpenWebUI Community:** [openwebui.com/u/Fu-Jie](https://openwebui.com/u/Fu-Jie) Â· 230K+ profile views Â· 22K+ plugin downloads Â· 839+ followers Â· Featured in official Newsletter Ã2 Â· Recognized by project author tjbck
+**OpenWebUI Community:** [openwebui.com/u/Fu-Jie](https://openwebui.com/u/Fu-Jie)
+· 230K+ profile views · 22K+ plugin downloads · 839+ followers
+· Featured in official Newsletter ×2 · Recognized by project author tjbck
+
 ---
 
 ## 🛠 Tech Stack
@@ -219,18 +222,31 @@ InsightFlow 真实运行数据：85 个 Agent 会话 · 94 个任务（95.7% 完
 > 实际案例：AI 自助取数 Agent 以 Prefect Scheduled Flow 形式在生产运行，自动化处理全公司 70%+ 的日常取数需求，具备完整重试与故障恢复，无需人工值守。
 
 ---
-### ð¦ å¼æºé¡¹ç®
 
-| é¡¹ç® | Stars | ç®ä» |
-|---|---:|
-| [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | 205 | OpenWebUI 手接生态 —— Copilot 集成、Excel/HTML 渲柕、思维导图生成、异此上下文压缩 |
-| [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | 77 | DeepSeek 社区维抡版 —— 协议修外、R1 联网引甸解析、多架构 Docker |
-| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | 39 | 前端 Prompt 管理增强套件 —— Spotlight 搜索、AI 自动分类、智能 UI 渲柕 |
-| [openwebui-chat-client](https://github.com/Fu-Jie/openwebui-chat-client) | 31 | 面向 LLM 调度的有状态 Python SDK —— 异此/同此、多模态、工具调用 |
+
+## 📊 Community Stats
+> ![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_updated.json&style=flat)
+
+| 👤 Author | 👥 Followers | ⭐ Points | 🧩 Plugin Contributions |
+| :---: | :---: | :---: | :---: |
+| [Fu-Jie](https://openwebui.com/u/Fu-Jie) | ![home_followers](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_followers.json&style=flat) | ![home_points](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_points.json&style=flat) | ![home_contributions](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_contributions.json&style=flat) |
+
+| 📝 Posts | ⬇️ Plugin Downloads | 👁️ Plugin Views | 👍 Upvotes | 💾 Plugin Saves |
+| :---: | :---: | :---: | :---: | :---: |
+| ![home_posts](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_posts.json&style=flat) | ![home_downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_downloads.json&style=flat) | ![home_views](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_views.json&style=flat) | ![home_upvotes](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_upvotes.json&style=flat) | ![home_saves](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FFu-Jie%2Fdb3d95687075a880af6f1fba76d679c6%2Fraw%2Fbadge_home_saves.json&style=flat) |
+### 📦 开源项目
+
+| 项目 | Stars | 简介 |
+|---|---|---|
+| [openwebui-extensions](https://github.com/Fu-Jie/openwebui-extensions) | 205 | OpenWebUI 插件生态 —— Copilot 集成、Excel/HTML 渲染、思维导图生成、异步上下文压缩 |
+| [deepseek-free-api](https://github.com/Fu-Jie/deepseek-free-api) | 77 | DeepSeek 社区维护版 —— 协议修复、R1 联网引用解析、多架构 Docker |
+| [open-webui-prompt-plus](https://github.com/Fu-Jie/open-webui-prompt-plus) | 39 | 前端 Prompt 管理增强套件 —— Spotlight 搜索、AI 自动分类、智能 UI 渲染 |
+| [openwebui-chat-client](https://github.com/Fu-Jie/openwebui-chat-client) | 31 | 面向 LLM 调度的有状态 Python SDK —— 异步/同步、多模态、工具调用 |
 | [mimo-free-api-mcp](https://github.com/Fu-Jie/mimo-free-api-mcp) | 11 | MiMo Free API MCP 网关 —— 搜索、识图、长文本分段、SQLite 持久化 |
 | [open-webui-pipeline-wisdom-synthesizer](https://github.com/Fu-Jie/open-webui-pipeline-wisdom-synthesizer) | 10 | Open WebUI 管道 —— 聚合多路 AI 专家视角，输出结构化分析报告 |
 
-**OpenWebUI å®æ¹ç¤¾åº：** [openwebui.com/u/Fu-Jie](https://openwebui.com/u/Fu-Jie) Â· 23 ä¸+ æµè§ Â· 22,042 ææ¥ä¸è½½ Â· 839+ å³æ³¨ Â· å®æ¹ Newsletter ä¸¤æ¬¡æ¨è
+**OpenWebUI 官方社区：** [openwebui.com/u/Fu-Jie](https://openwebui.com/u/Fu-Jie) · 23 万+ 浏览 · 22,042 插件下载 · 839+ 关注 · 官方 Newsletter 两次推荐
+
 ---
 
 ### 🛠 技术栈
@@ -268,3 +284,4 @@ InsightFlow 真实运行数据：85 个 Agent 会话 · 94 个任务（95.7% 完
 | **简历** | [datacareer.yangtzeaidata.site](https://datacareer.yangtzeaidata.site/?lang=zh-CN) |
 
 *让 AI 从魔法变成基础设施。*
+
